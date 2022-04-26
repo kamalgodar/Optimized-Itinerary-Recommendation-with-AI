@@ -1,0 +1,25 @@
+{% extends 'map/base.html' %}
+
+{% block content %}
+<div class="container-fluid">
+</div>
+
+	<div class="container-fluid">
+
+    <!-- Place list -->
+    <div class="" >
+        {% if place %}
+            <div class="container">
+                <div class="card" style="border-radius: 22px 22px 22px 22px;">
+                    <img src="{{ place.photo.url}}" class="card-img-top img-responsive" style="border-radius: 22px 22px 22px 22px;" width="100px" height="600px">                   
+                    <div class="card-body">
+                        <h5 class="card-title ">{{place.name}}</h5>
+                        <p class="card-text">{{place.description}}</p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}   
+    </div>
+
+</div>
+{% endblock %}

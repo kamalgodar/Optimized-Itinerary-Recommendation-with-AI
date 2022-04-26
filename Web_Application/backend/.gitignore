@@ -1,0 +1,15 @@
+*.log
+*.pot
+*.pyc
+*.orig
+__pycache__/
+.mypy_cache/
+local_settings.py
+db.sqlite3
+media
+.coverage
+htmlcov/
+venv/
+env/
+.vscode/
+static/

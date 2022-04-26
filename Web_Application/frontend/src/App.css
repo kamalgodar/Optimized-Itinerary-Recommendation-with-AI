@@ -1,0 +1,22 @@
+.App {
+  text-align: left;
+}
+
+.mapWrapper {
+  /* border: 5px solid #FFFF00; */
+  /* position: absolute; */
+  left: 15%;
+  top: 50%;
+  /* transform: translate(-50%, -50%); */
+  width: 75vw;
+  height: 60vh;
+}
+
+input[type='radio'] {
+  display: none;
+}
+
+.star {
+  cursor: pointer;
+  transition: color 200ms;
+}

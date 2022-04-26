@@ -1,0 +1,32 @@
+{"hotel" : [
+    {
+        "id": 0,
+        "name": "Hari",
+        "Contact": "9841318793",
+        "coordinats": [27.672901, 85.313660],
+        "location": "Jawalakhel"
+    },
+    {
+        "id": 1,
+        "name": "Gita",
+        "Contact": "9841318793",
+        "coordinats": [27.690084, 85.317555],
+        "location": "Thapathali"
+    },
+    {
+        "id": 2,
+        "name": "Sameep",
+        "Contact": "9841318793",
+        "coordinats": [27.666874, 85.323639],
+        "location": "Lagankehel"
+    },
+    {
+        "id": 3,
+        "name": "Durga",
+        "Contact": "984131793",
+        "coordinats": [27.682200, 85.323816],
+        "location": "Pulchowk Campus"
+    }
+
+]
+}

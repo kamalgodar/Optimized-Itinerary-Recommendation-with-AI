@@ -1,0 +1,2346 @@
+dest_id:title:genre:latitude:longitude
+1:Boudhanath Stupa:history,art_and_architecture,religious:27.7215062:85.3598087
+2:Swayambhunath Temple:history,art_and_architecture,religious:27.7149298:85.2881456
+3:Pashupatinath Temple:history,art_and_architecture,religious:27.7104461:85.3465028
+4:Chandragiri Hills:nature:27.6710496:85.262664
+5:Kopan Monastery:history,art_and_architecture,religious:27.7425438:85.3622082
+6:Thamel:history:27.7150086:85.3078937
+7:Garden of Dreams:history,nature:27.7141261:85.3123154
+8:Namo Buddha (Stupa):history,art_and_architecture,nature:27.570067:85.5778464
+9:Kathmandu Durbar Square:history,art_and_architecture:27.7041718:85.3044636
+10:Asan:art_and_architecture,entertainment,health_and_lifestyle:27.7074849:85.3102006
+11:Shivapuri Nagarjun National Park:nature:27.8120756:85.3671918
+12:Kailashnath Mahadev:history,art_and_architecture,religious:27.6461062:85.4720758
+13:Dakshinkali Temple:history,art_and_architecture,religious:27.605107:85.2612812
+14:Budhanilkantha:history,art_and_architecture,religious:27.7677291:85.2909879
+15:Hanuman Dhoka:history,art_and_architecture,nature:27.704272:85.3052283
+16:The Crematoria:history,art_and_architecture,religious:27.7063725:85.3462654
+17:Kumari Chowk:history,art_and_architecture,religious:27.704998:85.2656449
+18:Narayanhiti Palace Museum:history,art_and_architecture:27.7149634:85.3161398
+19:Babar Mahal Revisted:history,art_and_architecture:27.6942629:85.3204241
+20:Basantapur Tower:history,art_and_architecture,nature:27.7041967:85.3045026
+21:Phulchoki:nature:27.5711011:85.3880407
+22:Budhanilakantha Temple:history,art_and_architecture,religious:27.7592747:85.3193618
+23:Pullahari Monastery:history,art_and_architecture,religious:27.7367119:85.3674093
+24:National Botanical Gardens:history,nature:27.5969324:85.3779545
+25:Jaganath (Krishna) Temple:history,art_and_architecture,religious:27.6886139:85.2985446
+26:Indra Chowk:history,art_and_architecture:27.7057217:85.3073225
+27:Kathesimbu Stupa:history,art_and_architecture,religious:27.7110004:85.2708521
+28:Akash Bhairav Temple:history,art_and_architecture,religious:27.7060376:85.3072115
+29:Mandala Street:history:27.7151546:85.3086283
+30:Sankhu Village:history,art_and_architecture,nature:27.5115388:85.2993313
+31:Amideva Buddha Park:history,art_and_architecture,nature:27.7192599:85.2876642
+32:Kala Bairav:history,art_and_architecture,religious:27.704838:85.304923
+33:Vajrayogini Temple:history,art_and_architecture,religious:27.7439725:85.4647057
+34:Astrek Climbing Wall:entertainment:27.7163365:85.3103538
+35:Templo de Changu Narayan:history,art_and_architecture,nature:27.7145766:85.4274005
+36:White Monastery:history,art_and_architecture,nature:27.7237768:85.3674653
+37:Taudaha Lake:nature:27.6486985:85.2644903
+38:Shechen Monastery:history,art_and_architecture,religious:27.7247522:85.3584667
+39:The National Museum:history,art_and_architecture:27.7101731:85.2840678
+40:Nagarjun Forest Reserve:nature,adventure:27.7442178:85.254535
+41:Degu Taleju Temple:history,art_and_architecture,religious:27.7049154:85.305858
+42:Cathedral of the Assumption of the Blessed Virgin Mary:history,art_and_architecture,religious:27.6726341:85.3044028
+43:Seto Machindranath Temple:history,art_and_architecture,religious:27.7066835:85.3080359
+44:Nagi Gompa:history,art_and_architecture,religious:27.7831815:85.3795645
+45:Freak Street (Jhhonchen Tole):history,art_and_architecture,nature:27.7035085:85.3045869
+46:Aarya Ghat:history,art_and_architecture,nature:27.7094523:85.3463231
+47:Basantpur Dabali:history,art_and_architecture,nature:27.7035908:85.3052152
+48:Taragaon Museum:history,art_and_architecture:27.7201836:85.3540158
+49:Boudha Farmers Market at Utpala Cafe:entertainment,food:27.7244642:85.3602138
+50:Chhango Adventure Canyoning In Nepal:adventure,health_and_lifestyle:27.715298:85.3077642
+51:Boudha Stupa Thanka Center:history,art_and_architecture,religious:27.7210932:85.3602582
+52:Kaiser Library:history,art_and_architecture:27.7146034:85.3130197
+53:The Natural History Museum:history,art_and_architecture:27.71453:85.2857607
+54:Guhyeshwari Temple:history,art_and_architecture,religious:27.7112609:85.3512429
+55:Manakamana Mandir Temple:history,art_and_architecture,nature:27.7038666:85.2372554
+56:Durbar Marg Street:history,art_and_architecture,nature:27.71245:85.3155822
+57:Tribhuvan Park:history,art_and_architecture,nature:27.7122298:85.2841802
+58:Shiva Parvati Temple:history,art_and_architecture,nature:27.6990715:85.3052986
+59:Bishal Bazaar:entertainment:27.7042993:85.3075129
+60:Annapurna Temple:history,art_and_architecture,religious:27.7073747:85.3099258
+61:Maru Ganesh Shrine:history,art_and_architecture,religious:27.704106:85.303742
+62:Ratna Park:history,art_and_architecture,nature:27.7066313:85.3123355
+63:Thahiti Chowk:history,art_and_architecture,nature:27.7105327:85.3084785
+64:Nara Devi Temple:history,art_and_architecture,nature:27.7077432:85.3050309
+65:Military Museum:history,art_and_architecture:27.7074164:85.2946048
+66:Shanti Spa:adventure,health_and_lifestyle:27.7161539:85.3088222
+67:Gokarneshwor Mahadev Temple:history,art_and_architecture:27.7392772:85.3855226
+68:Makhan Tole:history,art_and_architecture,nature:27.7055531:85.3067216
+69:Music Museum of Nepal:history,art_and_architecture:27.6929604:85.3121559
+70:Kathmandu Fun Park:entertainment:27.701377:85.3182094
+71:Bhimsen Tower:history,art_and_architecture,nature:27.7006107:85.3096452
+72:Tridevi Temple:history,art_and_architecture:27.713845:85.3117253
+73:himalayan arts gallery pltd:history,art_and_architecture,religious:27.7129525:85.3093281
+74:Guru Lhakhang Monastery:history,art_and_architecture,religious:27.7220231:85.3598993
+75:Rani Pokhari (Queen's Pond):history,art_and_architecture,nature:27.7078387:85.3131603
+76:Woodcraft Gallery:history,art_and_architecture,religious:27.7154575:85.3066668
+77:Kashthamandap::27.7038375:85.3036515
+78:Namkha Khyung Dzong Rigdin Choling Monastery:history,art_and_architecture,religious:27.7804877:85.3478869
+79:Casino Mahjong:entertainment:27.7007362:85.288259
+80:The Tribhuvan, Mahendra, and Birendra Museums:history,art_and_architecture:27.7043039:85.3051176
+81:Kashmiri Mosque:history,art_and_architecture,religious:27.7087062:85.3154641
+82:Divine Yoga Studio:adventure,health_and_lifestyle:27.7154838:85.3065314
+83:Aviation Museum:history,art_and_architecture:27.6937953:85.35128
+84:Millionaire's Club and Casino:entertainment:27.7254385:85.3203459
+85:Nepal Art Council Gallery:history,art_and_architecture,religious:27.6922589:85.3214432
+86:Gaddhi Baithak:history,art_and_architecture,nature:27.7039986:85.3045282
+87:Casino Rad:entertainment:27.7199962:85.319477
+88:Sundarijal Water Falls:nature:27.7591264:85.418929
+89:Shiva Mandir Temple:history,art_and_architecture:27.7113931:85.2829037
+90:Bagwati Mandir Temple:history,art_and_architecture,nature:27.6974459:85.2788096
+91:Ghanta Ghar Clock Tower:history,art_and_architecture,nature:27.707477:85.3147112
+92:Jamchen Lhakhang Monastery:history,art_and_architecture,religious:27.7215058:85.3591918
+93:Big Bell:history,art_and_architecture,nature:27.7268583:85.3006248
+94:Mrigasthali Deer Park:nature,adventure:27.711512:85.3497721
+95:Universal Crafts:history,art_and_architecture,religious:27.7173331:85.3812516
+96:Mero Chitra Wears:industries::
+97:Casino Everest:entertainment::
+98:Maju Dega Mandir Temple:history,art_and_architecture::
+99:Gauri Gaht:history,art_and_architecture,nature::
+100:Monasterio Tibetano Boudhanat:history,art_and_architecture,religious::
+101:Kalikasthan Temple:history,art_and_architecture,religious::
+102:Kirateshwar Mahadev:history,art_and_architecture,religious::
+103:Khawalung Monastery:history,art_and_architecture,religious::
+104:Vishnu Mandir Temple:history,art_and_architecture,nature::
+105:Dolma Treks:history,art_and_architecture::
+106:Chyasin Dega Temple:history,art_and_architecture,religious::
+107:Bhadrakali Temple:history,art_and_architecture,religious::
+108:The City Museum Kathmandu:history,art_and_architecture::
+109:Bachhareshwari　Mandir Temple:history,art_and_architecture,nature::
+110:Blue Moon Curio Shop:history,art_and_architecture,religious::
+111:Chabdi Barahi Temple:history,art_and_architecture,nature::
+112:Gorakhnath Mandir Temple:history,art_and_architecture,nature::
+113:Singha Sattal (Silyan Sattal):history,art_and_architecture,nature::
+114:Indoor Sports Arena:entertainment::
+115:Mahendreswor Mandir Temple:history,art_and_architecture::
+116:Sara Enterprises:history,art_and_architecture,religious::
+117:Pharping HydroPower Dam:nature::
+118:Ashok Stupa:history,art_and_architecture::
+119:Dirghaman & Ganeshman Chitrakar Art Foundation:history,art_and_architecture,religious::
+120:Stone Vishnu Mandir Temple:history,art_and_architecture,nature::
+121:Maha Vishnu Mandir Temple:history,art_and_architecture::
+122:Rizvi Brothers Paper Mache Gift Shop:history,art_and_architecture,religious::
+123:Itum bahal:history,art_and_architecture,nature::
+124:Pandra Shivalaya:history,art_and_architecture,nature::
+125:Woodcraft Gallery:history,art_and_architecture,religious::
+126:Buddha Nepal Art Gallery:history,art_and_architecture,religious::
+127:Aviation Museum:history,art_and_architecture::
+128:Handy-Mandy Craft House:history,art_and_architecture,nature::
+129:Karmaraja Mahavihara:history,art_and_architecture,religious::
+130:Shree Tanadevi Temple:history,art_and_architecture,religious::
+131:Bhimsen Sthan Temple:history,art_and_architecture,religious::
+132:Chandragiri Hill:history,art_and_architecture,nature::
+133:Tri Chandra Collage:history,art_and_architecture::
+134:Lokta Paper Craft:history,art_and_architecture,nature::
+135:Kotilingeshwor Mahadev Mandir Temple:history,art_and_architecture::
+136:Dharmadhaatu Stupa:history,art_and_architecture,religious::
+137:Lucky Traders & Exporter:entertainment::
+138:Manjushree Temple:history,art_and_architecture,religious::
+139:Shree Bhawani Shankar Temple:history,art_and_architecture,religious::
+140:Direction Exhibition & Convention Center:history,art_and_architecture::
+141:The Charumati Vihara Stupa:history,art_and_architecture::
+142:Brass and Bronze Museum:history,art_and_architecture::
+143:Buddha Park:history,art_and_architecture,nature::
+144:Krishna Temple:history,art_and_architecture,religious::
+145:Bisnumati River:nature::
+146:Bijeshwari Temple:history,art_and_architecture,nature::
+147:Shobabaghwati:history,art_and_architecture,nature::
+148:Drugon Jangchu Monastery:history,art_and_architecture,religious::
+149:Dhansa Dega:history,art_and_architecture,nature::
+150:Department of Immigration:history,art_and_architecture::
+151:Mahadev Mandir Temple:history,art_and_architecture::
+152:Ram Chandra Temple:history,art_and_architecture,nature::
+153:Espace de visite:history,art_and_architecture,nature::
+154:Manhal Healing:adventure,health_and_lifestyle::
+155:Nepal Hiking Team:history,art_and_architecture,entertainment::
+156:Nepal Eco Adventure:history::
+157:Ace the Himalaya:history::
+158:Adventure-Pulse:history::
+159:Mountain Mart Treks & Expedition:history::
+160:Himalaya Holiday Service:art_and_architecture,religious::
+161:Mountain Delights Treks & Expedition:history,art_and_architecture::
+162:Nepal Horizon Treks & Expedition:history::
+163:The Great Adventure Treks & Expedition - Private Day Tours:adventure::
+164:Himalayan Quests - Day Tours:art_and_architecture,nature,adventure::
+165:Incredible Treks:nature,adventure,entertainment::
+166:Magical Nepal:history::
+167:Visit Himalaya Treks:adventure::
+168:Thai Nepal Travels and Tours:history,art_and_architecture,entertainment::
+169:Himalayan Friends Trekking - Day Tours:adventure::
+170:Mountain Holiday Treks & Expedition:history::
+171:Third Rock Adventures:history,art_and_architecture,entertainment::
+172:Himalayan Car Rental Nepal:::
+173:Nepal Ayurveda Home:health_and_lifestyle::
+174:Dream Heaven Adventure:art_and_architecture,religious::
+175:Exciting Nepal Treks and Expedition:history::
+176:A1 Excursion - Private Day Tours:nature::
+177:Mosaic Adventure:history::
+178:Tramping Himalaya:nature,adventure::
+179:Destination Unlimited Treks & Expeditions:history,art_and_architecture,entertainment::
+180:Pariwar Holidays:history::
+181:Vista Trek:art_and_architecture,religious::
+182:Odea Services:nature,adventure::
+183:Ambition Himalaya Treks & Expeditions:history::
+184:Osho Vision Treks and Expedition:history,art_and_architecture,entertainment::
+185:Landmark Discovery Treks –  Day Tours:art_and_architecture,religious::
+186:Friends Adventure Team:nature,adventure,entertainment::
+187:Outshine Adventure:history,art_and_architecture,entertainment::
+188:Osho Divine Zone:health_and_lifestyle::
+189:Discovery World Trekking:history::
+190:Nepal Gateway Trekking:adventure::
+191:Access Nepal Tour & Trekking:history::
+192:Trekking Team Group:art_and_architecture,religious::
+193:Destination Himalaya Treks and Expedition:history::
+194:Earthbound Expeditions:history::
+195:Unique Path Trekking & Expedition:history,art_and_architecture,entertainment::
+196:Travel Maker South Asia:art_and_architecture,religious::
+197:Nepal Alibaba Treks & Tours Pvt Ltd:history::
+198:Alpine Ramble Treks:history::
+199:Info Nepal Treks and Expedition:history,art_and_architecture,entertainment::
+200:Epic Adventures - Day Tours:art_and_architecture,religious::
+201:Hiking Adventure Treks:history,art_and_architecture,entertainment::
+202:Nepal Hiking Adventure Company - Private Day Tours:adventure::
+203:Satori Adventures:history,art_and_architecture,entertainment::
+204:Happyland Treks:history::
+205:Adventure Nepal Eco Treks - Private Kathmandu Day Tour:adventure::
+206:Nepal Cooking School:food::
+207:White Hill Adventure:art_and_architecture,nature,adventure::
+208:Apex Himalaya Trek and Tour – Private Day Tours:art_and_architecture,religious::
+209:Mountain Monarch Adventures - Private Day Tours:adventure,entertainment::
+210:Himalayan Adventure:history::
+211:Nepal Trekking Experts Pvt Ltd:history,art_and_architecture,entertainment::
+212:Nepal Explore Summit Trek Pvt Ltd:art_and_architecture,nature,adventure::
+213:Third Eye Adventure:art_and_architecture,religious::
+214:Base Camp Adventure:history::
+215:Backpacker Treks and Expedition:history,art_and_architecture::
+216:AID Journeys & Adventure:history,art_and_architecture,entertainment::
+217:Gokyo Treks and Expedition:adventure::
+218:Himalayas On Foot - Day Tours:nature::
+219:Fewa Trail Treks - Kathmandu:history::
+220:High Venture Plus:history,art_and_architecture,entertainment::
+221:Mountain World Treks - Day Tours:adventure::
+222:Nepal Peak Adventure:history::
+223:Escape Himalaya Trek and Expedition:history,art_and_architecture,entertainment::
+224:Good Vibe Adventure:art_and_architecture,nature,adventure::
+225:Adventure Himalaya Circuit Treks and Tours - Private Day Tours:adventure::
+226:Adventure Treks Nepal:adventure::
+227:City Motorbike:adventure::
+228:Nepal Yoga Home:health_and_lifestyle::
+229:Himalayan Glacier Trekking - Private Day Tours:history::
+230:Trek Nepal Int'l - Day Tours:adventure::
+231:Trekking Planner - Private One Day Activities:adventure::
+232:Index Adventure:history,art_and_architecture,entertainment::
+233:Himkala Adventure:history,art_and_architecture,entertainment::
+234:Mission Himalaya Treks - Private Day Tour:nature,adventure::
+235:Mission Eco Trek - Day Tours:adventure::
+236:Adventure Bound:art_and_architecture,religious::
+237:Himalayan Partner Treks & Expedition:history::
+238:Adventure Mountain Explore Trek & Expedition:history::
+239:World Himalayan Destination Pvt Ltd:adventure::
+240:Nepal Ascent Treks:history::
+241:Breakfree Adventures - Private Day Tours:history,art_and_architecture,entertainment::
+242:Mountain Adventure Trekking (Pvt) Ltd:adventure,entertainment::
+243:Trekking Team Pvt Ltd - Day Tours:adventure::
+244:Actual Adventure Trekking and Expedition:art_and_architecture,religious::
+245:Himalaya Hub Adventure:history,art_and_architecture,entertainment::
+246:Peace Nepal Treks - Day Tours:nature,adventure::
+247:Himalayan Abode Travels and Tours Treks and Expeditions - Private Kathmandu Day Tour:adventure::
+248:Nepal Wilderness Trekking:history::
+249:Explore Himalaya Travel & Adventure - Private Day Tours:adventure,entertainment::
+250:Himalayan Wonders Day Tours:art_and_architecture,nature,adventure::
+251:Adventure White Himalaya Treks:history::
+252:Himalayan Gateway Trek:nature,adventure,entertainment::
+253:Seeing Hands Clinic:health_and_lifestyle::
+254:Mountain Sun Valley Treks and Expedition:::
+255:Mountain Ram Adventures:history,art_and_architecture::
+256:Nepali Cooking Course - Day Class:food::
+257:Saara Tourism Nepal-Kathmandu:history::
+258:Amigo Treks & Expedition - Day Tours:nature,adventure::
+259:Nepal Trek Adventure and Expedition:history::
+260:Orbit Nepal Adventure:nature,adventure,entertainment::
+261:Adventure Vision Treks and Travels:adventure::
+262:SK Handicrafts Export:history,art_and_architecture::
+263:Green Valley Nepal Treks & Research Hub - Day Tours:art_and_architecture,religious::
+264:Scenic Nepal Treks & Expedition:history,art_and_architecture,entertainment::
+265:Outfitter Nepal Treks and Expedition:history,art_and_architecture,entertainment::
+266:Trekking Guide Team Adventure:adventure::
+267:Funny Nepal Treks & Expedition - Private Day Tours:adventure::
+268:Nature Lovers Treks & Tours:history,art_and_architecture,entertainment::
+269:Backstreet Academy:art_and_architecture,religious::
+270:Unique Adventure International P Ltd:art_and_architecture,religious::
+271:Mount Mania Treks & Expedition:history::
+272:The Nepal Trekking Company:nature,adventure::
+273:Adventure Master Treks:history,art_and_architecture,entertainment::
+274:The Everest Holiday:history::
+275:Ammonite Adventures:art_and_architecture,nature,adventure::
+276:Adventure Great Himalaya - Private Day Tours:nature::
+277:Nepal Private Guide Services:history::
+278:Thamel Spa:health_and_lifestyle::
+279:Prime Himalayas:adventure::
+280:Top of the World Adventure:adventure::
+281:Himalaya Guide Nepal:adventure::
+282:Mandala Studio Yoga & Spa:health_and_lifestyle::
+283:Blue Mountain Travels - Private Mountain Flight Day Tours:nature::
+284:Nepal Social Treks and Expedition:nature,adventure,entertainment::
+285:Glorious Himalaya Trekking:art_and_architecture,nature,adventure::
+286:Ananda Natural Therapy:health_and_lifestyle::
+287:Himalayan Planet Adventures Day Tours:art_and_architecture,nature,adventure::
+288:Himalayan Scenery Treks and Expedition:adventure::
+289:Himalayan Social Journey:history,art_and_architecture::
+290:Socialtours:history,art_and_architecture,entertainment::
+291:Kathmandu Urban Adventures:art_and_architecture,religious::
+292:Great Vision Trek & Expedition - Day Tours:history,art_and_architecture,entertainment::
+293:Tourist Link Treks and Expedition:nature,adventure::
+294:Explore Kathmandu:art_and_architecture,religious::
+295:Kinjjala Spa:health_and_lifestyle::
+296:Himalayan Magic Treks:art_and_architecture,religious::
+297:Zen Spa:health_and_lifestyle::
+298:Eyes On Nepal:art_and_architecture,religious::
+299:India Odyssey Tours - Day Tour of Kathmandu:art_and_architecture,nature,adventure::
+300:Himalayan Spirit Adventure Treks and Expeditions:history,art_and_architecture::
+301:Royal Mountain Travel:history::
+302:Aiming Adventure:history::
+303:High Himalayan Trekking and Expedition - Day Tours:nature,adventure,entertainment::
+304:Nepal Intrepid Treks and Expedition:nature,adventure,entertainment::
+305:iTour Nepal Private Day Tours:history,art_and_architecture,entertainment::
+306:Alpine Eco Trek & Expedition:history,art_and_architecture,entertainment::
+307:My Everest Trip:history::
+308:Mountain Treks Nepal:nature,adventure,entertainment::
+309:Hikers Haven:art_and_architecture,religious::
+310:Nepal Hidden Treks and Expedition P Ltd:adventure::
+311:Nepal Planet Treks and Expedition P Ltd:history::
+312:GAP Year Nepal:history,art_and_architecture,entertainment::
+313:Karnali Excursions - Day Tours:art_and_architecture,nature,adventure::
+314:Alliance Adventure:history::
+315:Kailash Journeys Pvt Ltd:history,art_and_architecture::
+316:Annapurna Foothills Treks & Expedition Pvt Ltd:history::
+317:Icicles Adventure Treks & Tours Day Tours:history::
+318:Trekking and Tour for Fair Tourism:adventure::
+319:Trek and Adventure Nepal:history,art_and_architecture,entertainment::
+320:Visit Heaven Treks:history,art_and_architecture,entertainment::
+321:Manakamana Treks & Expedition Day Tours:adventure::
+322:Langtang Ri Trekking & Expedition:adventure::
+323:Beyond The Limits Trek and Expedition P Ltd:history::
+324:Himalayan Joy Adventure:nature,adventure,entertainment::
+325:AGH Trekking:history,art_and_architecture::
+326:Nepal Tour Guide Team Trek & Expedition:history,art_and_architecture::
+327:Nepal Tibet Tours & Treks:adventure::
+328:Flyeast Nepal:history::
+329:Touch The Himalaya Treks & Expedition:adventure::
+330:Marvel Adventure Pvt Ltd:art_and_architecture,religious::
+331:Unique Waymaker Treks & Expedition:adventure::
+332:Luxury Holidays Nepal Pvt Ltd:history,art_and_architecture,entertainment::
+333:Budget Adventure Treks & Expeditions Private Day Tours:adventure::
+334:Nepalorama Trekking:history,art_and_architecture,entertainment::
+335:Remarkable Adventure Trek:nature,adventure,entertainment::
+336:Nepal Spiritual Trekking Pvt Ltd - Day Tours:adventure::
+337:Himalayan Dream Team:history::
+338:Dolma Treks & Adventure:history::
+339:Himalayan Holyland Treks and Expedition:history::
+340:High Pass Adventure Pvt Ltd:history::
+341:Thin Air Adventure - Private Day Tours:nature::
+342:Himalayan Healers:health_and_lifestyle::
+343:Sublime Trails:art_and_architecture,religious::
+344:Nepal Unique Treks & Expedition - Day Tours:nature,adventure::
+345:Adventure White Mountain:history,art_and_architecture,entertainment::
+346:Royal Tenshi Treks Pvt Ltd:adventure::
+347:Imperial Nepal Private Day Tours:history,art_and_architecture,entertainment::
+348:Bharal Adventure:adventure::
+349:Kathmandu Adventure Treks - Day Tour:adventure::
+350:Adventure Club Treks and Expedition Mountain Flight:adventure::
+351:Walk Mountain:history::
+352:Sherpa Brothers Treks and Expedition:history::
+353:Himalaya Trekking Team Pvt Ltd Private Day Tours:art_and_architecture,religious::
+354:Swotah Travel and Adventure:history::
+355:Life Dream Adventure Pvt Ltd Private Day Tours:history,art_and_architecture::
+356:Nepal Alternative Treks & Expeditions Pvt Ltd:history,art_and_architecture,entertainment::
+357:Mount Face Nepal Day Tours:history,art_and_architecture,entertainment::
+358:Luxury Holiday Treks (P) Ltd:history,art_and_architecture,entertainment::
+359:Sawar Meditation and Yoga Center:health_and_lifestyle::
+360:Zam Zam Trekking:history,art_and_architecture,entertainment::
+361:Outdoor Himalayan Treks - Private Day Tours:adventure::
+362:Snowy Horizon Treks & Expedition:adventure::
+363:Crystal Mountain Treks:history::
+364:Himalayan Trip Nepal Private Day Tours:adventure,entertainment::
+365:Transport Hub Nepal:::
+366:Holiday Hiking Team:adventure::
+367:Global Adventure Trekking:adventure::
+368:Adventure Himalaya Nepal:art_and_architecture,religious::
+369:Nepal Spa and Wellness pvtltd:health_and_lifestyle::
+370:Adventure Leaders Nepal:history,art_and_architecture,entertainment::
+371:Nepal Hiking Trek:history,art_and_architecture,entertainment::
+372:Real Therapy & Beauty Point:health_and_lifestyle::
+373:Nepal Mountain Trekkers - Day Tours:art_and_architecture,religious::
+374:Nepal Royal Tourism Holiday:::
+375:Life Door Treks & Expedition:history::
+376:Spiritual Excursion Private Limited:history,art_and_architecture,entertainment::
+377:Trek Nepal Himalayas:history::
+378:Couch Adventure Nepal (CAN) - Kathmandu Branch:history,art_and_architecture,entertainment::
+379:GRG's Adventure Kayaking - Day Tours:nature,adventure,entertainment::
+380:Three Jewels Adventures:nature,adventure::
+381:Magic Himalaya Treks:art_and_architecture,religious::
+382:Adventure Magic Treks & Expedition:adventure::
+383:Nectar Spa:health_and_lifestyle::
+384:Himalaya Heart Treks & Expeditions:nature,adventure::
+385:Adventure Thirdpole Treks:history,art_and_architecture,entertainment::
+386:Asian Heritage Treks and Expeditions:adventure::
+387:Mount Fuji Adventure Pvt Ltd:history::
+388:Himalayan Trekkers:art_and_architecture,religious::
+389:Nepal Promote Treks and Expedition:history::
+390:Responsible Treks:art_and_architecture,religious::
+391:Social Tourism Nepal:history,art_and_architecture,entertainment::
+392:Himalayan Single Track:nature::
+393:Amazing Nepal Holidays:history::
+394:Frolic Adventure Pvt Ltd:history,art_and_architecture::
+395:Nepal Mother House:nature,adventure::
+396:Alpine Club Of Himalaya - Private Day Trip:nature::
+397:Serene Himalaya Treks and Expedition Day Tours:art_and_architecture,religious::
+398:Nepal Footprint Holiday Treks - Day Tours:history,art_and_architecture,entertainment::
+399:Happy Nepal Trek:history::
+400:Nepal Spirit Adventure - Private Day Tours:nature::
+401:Good Karma Trekking  - Day Tours:adventure::
+402:Nepal Guide Treks and Expedition:nature,adventure::
+403:Nepal Hiking:adventure,entertainment::
+404:Mt Everest Base Camp Trekking:history::
+405:Kathmandu Car Services:::
+406:JRN Treks and Expeditions Pvt Ltd:history::
+407:Nepal Kanko Treks and Expedition:history,art_and_architecture,entertainment::
+408:Kamzang Journeys:entertainment::
+409:Nepal Pioneer Treks and Expedition:history::
+410:High Asia Tours - Private Day Tours:nature::
+411:Sabbatical Explore Nepal:history,art_and_architecture,entertainment::
+412:Himalayan Sanctuary Adventure:nature,adventure::
+413:Vyas Treks & Expedition:history::
+414:Corsa Nepal Adventure -Day Tour:art_and_architecture,religious::
+415:Nepal Tourism Adventure Kathmandu:adventure::
+416:Holidays to Nepal:history,art_and_architecture,entertainment::
+417:Glory Himalayan Club:history::
+418:Everest Experience and Assistance:nature,adventure::
+419:Mountain King Adventure:history::
+420:Dal Bhat Power Adventures:history::
+421:Nepal Vision Treks & Expeditions:history,art_and_architecture,entertainment::
+422:Halesi Treks PvtLtd:history::
+423:Himalayan Windows Tours:history,art_and_architecture,entertainment::
+424:Archaic Nepal Adventure:history,art_and_architecture,entertainment::
+425:Traveltimes Treks:adventure::
+426:Swiss Family Treks & Expedition:history::
+427:Wilderness Excursion:adventure,entertainment::
+428:Sunrise Adventure Trek:history::
+429:Sunshine Trekking:nature,adventure::
+430:Insight Adventures Nepal:nature,adventure::
+431:Snow Leopard Trek - Day Tours:adventure::
+432:Buddha Air:nature::
+433:Nepal Yoga Academy:health_and_lifestyle::
+434:Step On Himalaya:history::
+435:Mountain Magic Treks:history::
+436:Glacier Nepal Treks:history,art_and_architecture,entertainment::
+437:Getaway Nepal Adventure:history,art_and_architecture,entertainment::
+438:Souvenir Trek Pvt Ltd:history::
+439:Trekking Trail Nepal - Day Activities:nature,adventure,entertainment::
+440:Adventure Glacier Treks & Expedition:nature,adventure::
+441:Apex Nepal Treks:history::
+442:Nepal Myths and Mountain Trails - Day Tours:art_and_architecture,nature,adventure::
+443:Skyway Nepal Treks:history::
+444:Mega Adventures International:history,art_and_architecture,entertainment::
+445:Nepal Female Guide - Day Tours:art_and_architecture,nature,adventure::
+446:Exploring Nepal Treks and Adventures - Day Tours:adventure,entertainment::
+447:Life Himalaya Trekking:history,art_and_architecture::
+448:Save Himalaya Treks & Expedition:history::
+449:Oriental Journeys:history,art_and_architecture,entertainment::
+450:Himalayan Recreation - Day Tours:history,art_and_architecture,entertainment::
+451:Mount Glory Treks & Expedition:history::
+452:Everest Trekking Routes Pvt Ltd:history::
+453:ABC and EBC Nepal Trekking Adventures:history,art_and_architecture,entertainment::
+454:Goodday Nepal Excursion:history::
+455:First Environmental Trekking:adventure::
+456:Nature Explore:nature,adventure::
+457:Himalayan NamoBuddha Travel & Treks Pvt Ltd:history,art_and_architecture,entertainment::
+458:Himalayan Trekking & Tours:art_and_architecture,religious::
+459:Mountain Amantes Adventure:history::
+460:Sevenstar Adventure Holidays - Day Tours:nature,adventure,entertainment::
+461:HoneyGuide | To the Mountains:nature,adventure::
+462:Unique Nepal Adventure Treks & Expedition:history::
+463:Corporate Adventure Treks:nature,adventure::
+464:Create Himalaya Adventure:nature,adventure,entertainment::
+465:Himalayan Mentor:art_and_architecture,religious::
+466:Nepal Trek Hub:art_and_architecture,religious::
+467:Shakti Travels and Tours:history,art_and_architecture,entertainment::
+468:Nepal Trekking Routes:history::
+469:Asahi Treks & Expedition - Mountain Flight and Helicopter Day Tours:nature,adventure::
+470:Mount Trails:history,art_and_architecture,entertainment::
+471:Nepal Mountain Hub Treks & Expedition:history,art_and_architecture,entertainment::
+472:Nepal River Runner:nature,adventure,entertainment::
+473:Responsible Adventures:art_and_architecture,religious::
+474:Golden Himalayan Zone Treks:history::
+475:Nepal Climbing Adventure:history,art_and_architecture::
+476:Attractive Travels and Tours:history,art_and_architecture,entertainment::
+477:Summit Treks and Adventure:adventure::
+478:Hike Himalaya Adventure - Private Day Tours:adventure::
+479:Trekking Mart:history,art_and_architecture,entertainment::
+480:The Trek Nepal:history::
+481:Northern Trekking Team:history,art_and_architecture,entertainment::
+482:Antique Nepal Treks - Day Tours:adventure::
+483:Across Himalaya Tours & Treks Ltd:adventure::
+484:Nepal Sanctuary Treks - Day Trip:adventure::
+485:Mountain Eco Treks & Expedition:history::
+486:Apex the Asia Holidays:history::
+487:Adventure Pilgrims Trekking:nature,adventure,entertainment::
+488:Heritage Spa:health_and_lifestyle::
+489:Sam's Bar:entertainment::
+490:Himalayan Nepal Trek  - Private Day Tour:nature,adventure::
+491:Manikang Nepal Treks and Adventure:history::
+492:Rediscover Nepal Treks & Tours Pvt Ltd:history::
+493:Eagle Eye Treks and Expedition:history,art_and_architecture,entertainment::
+494:Admiral Adventure Treks:adventure::
+495:Coldfeet Adventure - Kathmandu Valley Private Day Tour:nature::
+496:Treks Planner Nepal:history,art_and_architecture,entertainment::
+497:Welcome Nepal Treks - Day Tours:history::
+498:Global Holidays Adventure:nature::
+499:Aim Nepal Adventure:history::
+500:Nepal Excursion Treks Pvt Ltd:history,art_and_architecture,entertainment::
+501:Wongchhu Peak Promotion:history::
+502:Rugged Trails Nepal:history,art_and_architecture::
+503:Himalayan Adventure Nepal:history::
+504:Iconic Nepal Tours & Treks:nature,adventure::
+505:Shiva Excursion pvtltd:history,art_and_architecture,entertainment::
+506:Junket Nepal PvtLtd:history,art_and_architecture,entertainment::
+507:Awesome Nepal Treks Pvt Ltd:history::
+508:Plan Himalaya:nature,adventure::
+509:Adventure Altitude Treks & Expedition Pvt Ltd:nature,adventure::
+510:Caravana Himalaya Adventure:history,art_and_architecture,entertainment::
+511:Himalaya Chyangpa Nepal Treks and Expedition Pvt Ltd:nature,adventure::
+512:Welcome To My Yard:art_and_architecture,religious::
+513:Himalayan Cashmere Manufacturing Company:history,art_and_architecture::
+514:Budget Trekking:art_and_architecture,nature,adventure::
+515:Mountain Kick:art_and_architecture,religious::
+516:Charak Yoga, Thamel Kathmandu:health_and_lifestyle::
+517:Museum of Nepali Art:history,art_and_architecture::
+518:Team Ram Adventure Pvt Ltd:history::
+519:Nepal Vehicle Hiring:::
+520:Mountain Experience:history::
+521:Highland Expeditions:nature,adventure::
+522:Utmost Adventure Trekking:art_and_architecture,religious::
+523:Mission Summit Treks And Expedition:history::
+524:Pristine Nepal:history::
+525:Adventure Team:adventure::
+526:Nepal Boundary Trekking Pvt Ltd:nature,adventure::
+527:Himalayan Magic Adventures:nature::
+528:Nepal Trip Planner P Ltd:history,art_and_architecture,entertainment::
+529:KJ Adventure Nepal Private Limited:history,art_and_architecture,entertainment::
+530:Merit Adventure:history::
+531:World Expeditions:history::
+532:Authentic Adventures:art_and_architecture,religious::
+533:View Nepal Treks & Expedition:adventure::
+534:Eco Holidays Nepal:history,art_and_architecture,entertainment::
+535:Caravan Outdoors:history,art_and_architecture,entertainment::
+536:Bohemian Tours:art_and_architecture,nature,adventure::
+537:Master Himalaya:history,art_and_architecture,entertainment::
+538:Nepalgram:history::
+539:Mountain King Treks And Expedition:history,art_and_architecture,entertainment::
+540:Nepal Tour & Trekking Service - Day Tours:history,art_and_architecture,entertainment::
+541:Adventure Feel Nepal Treks and Expeditions Pvt Ltd:history::
+542:Gorkha International Travels - Kathmandu Day Tours:art_and_architecture,religious::
+543:Loyalty Spa:health_and_lifestyle::
+544:Absolute HJ Sherpa Trekking Pvt Ltd:adventure::
+545:Dream Tibet Travel & Tours:art_and_architecture,religious::
+546:Easy Treks & Expedition P Ltd:history::
+547:Travhill:history,art_and_architecture,entertainment::
+548:Ayurveda Health Home:health_and_lifestyle::
+549:Above the Himalaya Trekking - Private Day Tours:history,art_and_architecture,entertainment::
+550:Nepal Lion Tours & Treks Pvt Ltd:adventure::
+551:Extollo Adventures:history::
+552:Ask The Nepal Adventure:history::
+553:Walking The Himalaya Treks & Tours:history::
+554:Himalayan Advisor:history::
+555:Monterosa Treks and Expedition- kailash Tour package:nature,adventure::
+556:Silver Mountain Adventure Pvt Ltd - Private Day Tours:nature::
+557:Trek Mania Nepal:history::
+558:Exciting Himalaya:nature,adventure::
+559:Graceful Adventure Travel pvt ltd:::
+560:Himalayan Trekking Path:history::
+561:Himalayan Leisure, Inc:nature,adventure::
+562:Explore Nepal Adventure Holidays:history::
+563:The Asia Adventure Nepal - Day Tours:art_and_architecture,nature,adventure::
+564:Allied Adventure Travels and Tours:history,art_and_architecture,entertainment::
+565:All Nepal Hiking:history::
+566:Asiana Trek & Tours:history,art_and_architecture,entertainment::
+567:Musical Adventure Trekking - Day Tours:adventure::
+568:Mountain Hawk Trek - Private Day Tours:adventure::
+569:Friendship World Trek - Day Tours:adventure,entertainment::
+570:Tranquility Spa - Thamel:health_and_lifestyle::
+571:Adventure Exodus Pvt Ltd:history,art_and_architecture,entertainment::
+572:Ace Vision Nepal:adventure::
+573:Friendly Nepal Treks:art_and_architecture,nature,adventure::
+574:Black Diamond Expedition - Private Day Tours:adventure::
+575:Austravel & Tours Nepal P Ltd - Private Day Tours:art_and_architecture,religious::
+576:Info Nepal Tours & Treks:history::
+577:Summitclimb and Summittrek:nature,adventure::
+578:Tara Himalayan Vision:history::
+579:Accent Himalaya:history::
+580:Vespa Valley:entertainment::
+581:Local Women's Handicrafts:history,art_and_architecture::
+582:Nepal Kameleon Holidays Pvt Ltd:adventure,entertainment::
+583:Bold Adventures Pvt Ltd - Day Tours:art_and_architecture,religious::
+584:Adventure Gandaki Treks and Expedition:adventure::
+585:Sarmila's Cooking Course Training:food::
+586:Eagle Treks and Expedition P Ltd & Heli Tour Private Day Tour:history,art_and_architecture,entertainment::
+587:Hi Himalaya Nepal - Treks & Tours:history::
+588:Asian Hiking Team's Kathmandu Day Hiking:nature,adventure::
+589:Annapurna Mountain Bike & Adventure:adventure,entertainment::
+590:Tour Guide in Nepal:history::
+591:Kathmandu Adventures Travel and Tours:history::
+592:Bisham Koirala:history,art_and_architecture,entertainment::
+593:Summit International Travels & Tours:history,art_and_architecture,entertainment::
+594:Jugal Holidays:history::
+595:Creative Adventure Nepal:history,art_and_architecture,entertainment::
+596:Nepal Trekkers:history,art_and_architecture,entertainment::
+597:Himalaya Journey Treks & Expedition:adventure::
+598:Footprint Adventure:history,art_and_architecture,entertainment::
+599:Bluesheep Journeys:art_and_architecture,religious::
+600:Advanced Adventures:art_and_architecture,religious::
+601:Breeze Adventure Pvt Ltd:nature,adventure::
+602:Amazing Nepal Trek & Expedition:history::
+603:2Sisters Nepal Cooking School:food::
+604:Gorkha Adventure:history,art_and_architecture,entertainment::
+605:Higher Limits Trek & Expedition:history,art_and_architecture,entertainment::
+606:Hardcore Nepal Extreme Adventures - Day Tours:nature,adventure,entertainment::
+607:Lonely Nepal Travels:art_and_architecture,nature,adventure::
+608:Himalayas On Foot Transport Service:::
+609:Motherland Hiking Team - Private Day Tours:adventure::
+610:Himalaya Sky Travel and Adventure pvtltd:history,art_and_architecture,entertainment::
+611:Zed Travels:adventure,entertainment::
+612:Nepal Adventure Pilgrimage Treks and Expedition Pvt Ltd:adventure::
+613:Creative Holidays Nepal:nature,adventure,entertainment::
+614:Himalaya Message Adventure Private Ltd:nature,adventure::
+615:Nepal Environmental Treks & Expedition:adventure::
+616:Female Tour Guide Nepal  - Private Tour:history::
+617:Nepal Highpoint Trekking:art_and_architecture,religious::
+618:Holyland Adventure Tours and Travels:history,art_and_architecture,entertainment::
+619:Magic Expedition Trekking and Tours:art_and_architecture,religious::
+620:Mountain Hike Nepal:history::
+621:Gokyo Ri Trek:history,art_and_architecture,entertainment::
+622:Adventure Challenge Centre:art_and_architecture,nature,adventure::
+623:Asia Exploration Treks:history::
+624:Aasra Eco Treks - Private Day Tours:history,art_and_architecture,entertainment::
+625:Scenic Adventure Day Tours:art_and_architecture,nature,adventure::
+626:Himalayan Pleasure Trekking - Day Tours:adventure::
+627:Top1Trekking:history::
+628:Mountain Tiger Nepal:nature,adventure::
+629:Himalayan Trekking Alliance:history::
+630:Mountain Vehicle Nepal:::
+631:Himalayan Dreamland Trekking:adventure::
+632:Lumle Holidays - Private Day Tours:nature::
+633:Himalaya Destiny Treks & Tours:history::
+634:Above and Beyond Trekking - Day Adventures:adventure::
+635:"Nature Trail Travels & Tours, Trekking & Expeditions: Day Tours":nature,adventure::
+636:Adventure Imagine - Private Day Tours:adventure::
+637:Snowyoda Expeditions Pvt Ltd:history::
+638:Nepal Highland Treks Pvt Ltd:art_and_architecture,nature,adventure::
+639:WhiteWater Nepal Pvt Ltd:nature,adventure,entertainment::
+640:Peak Endeavor Day Tours:art_and_architecture,nature,adventure::
+641:Himalayan Sunrise Trekking and Expeditions:adventure::
+642:Trekking Venue Nepal:history::
+643:Nepal Kailash Trekking:nature,adventure::
+644:Sports Tours and Travel:nature,adventure::
+645:Journey Nepal Adventure:history::
+646:Top of The World Treks & Expeditions:history::
+647:Asian Adventure Trips Pvt Ltd:history::
+648:Drift Nepal Pvt Ltd:nature,adventure,entertainment::
+649:Alfresco Adventure Travel:entertainment::
+650:Community Trek:art_and_architecture,religious::
+651:Peak Promotion:art_and_architecture,religious::
+652:White Himalaya Treks And Expedition:adventure::
+653:GK Majestic Trek:history,art_and_architecture::
+654:Heaven Nepal Adventure:adventure::
+655:Sangrila Trail Walk Trek - One Day tour:adventure,entertainment::
+656:Tranquil View Treks & Expedition:art_and_architecture,religious::
+657:Ever Quest - Trekking & Climbing in Himalayan with Jamling Bhote and team:history::
+658:Adrenaline Rush Nepal:nature,adventure,entertainment::
+659:Trekking For Real Pvt Ltd:nature,adventure::
+660:Vehicles Rental Nepal:::
+661:Friendship Nepal Tours and Travels:art_and_architecture,religious::
+662:Ashiyana Vehicle Service:history::
+663:Alliance Treks and Expedition PvtLtd:history,art_and_architecture,entertainment::
+664:All Himalayan Treks - Day Tour:history::
+665:Nepal Base Camp Treks:history,art_and_architecture,entertainment::
+666:Sherpashah:art_and_architecture,religious::
+667:Pranamaya Yoga Studio Thamel:health_and_lifestyle::
+668:D & D Treks International - Day Tours:adventure::
+669:Transport Hire Nepal:::
+670:Adventure Aves:adventure::
+671:Nepal Paradise Trek:history,art_and_architecture,entertainment::
+672:CoreTreks:art_and_architecture,religious::
+673:World Trail Finder Adventure:history,art_and_architecture::
+674:High Camp Trekking:history,art_and_architecture,entertainment::
+675:Noble Treks:history,art_and_architecture,entertainment::
+676:Kathmandu Spa:health_and_lifestyle::
+677:Adventure Gorkhaland Treks & Expedition Pvt Ltd:history,art_and_architecture,entertainment::
+678:Malung Treks and Expedition:nature,adventure::
+679:Go For Nepal Treks and Expedition:adventure::
+680:Destination Nepal Tours and Travels - Private Day Tours:history,art_and_architecture::
+681:Alpine Exodus Pvt Ltd:art_and_architecture,religious::
+682:Well Plan Trekking:history::
+683:Mountain Air Guided Adventures - Day Tours:nature::
+684:Annapurna Encounter:history,art_and_architecture,entertainment::
+685:Yarsa Treks:adventure::
+686:Happy Himalayan Treks Pvt Ltd:art_and_architecture,religious::
+687:Sambodhi Yoga Studio:health_and_lifestyle::
+688:Elite Trekkers:nature,adventure::
+689:Mountain Sherpa Trekking & Expeditions:history,art_and_architecture::
+690:Kailash Himalaya Trek:history::
+691:Mountain Layers Treks and Expedition Pvt Ltd:history::
+692:Highlander Trekking and Expeditions - Private Day Tours:history,art_and_architecture::
+693:Adventure Himalayan Travels & Treks:art_and_architecture,religious::
+694:A One Nepal Trek Pvt Ltd:nature,adventure::
+695:Eco Tourism Adventure:history,art_and_architecture,entertainment::
+696:Pilgrims Book House:history,art_and_architecture::
+697:Himalayan Smile Treks & Adventures - Chandragiri Day Hiking:adventure::
+698:Ascent Holidays:history::
+699:Devo Adventure - Day Tours:nature,adventure,entertainment::
+700:Alpine Asian Treks and Expeditions - Private Day Tours:adventure::
+701:Explore Nepal Holidays:history::
+702:Exguides Treks & Expeditions  - Day Tour:adventure::
+703:Soul Himalaya Treks and Tours:art_and_architecture,religious::
+704:Massif Holidays:art_and_architecture,religious::
+705:Signature Tours Pvt  Ltd:nature,adventure::
+706:Down To Earth Adventure:history::
+707:By Mountain People:history::
+708:Adventure Tour Nepal:history,art_and_architecture,entertainment::
+709:Rainbow Safari Tours & Travels P Ltd:art_and_architecture,nature,adventure::
+710:Nepal-Tibet Trekking - Private Day Tours:adventure::
+711:Himalayan 360 Pvt Ltd:history,art_and_architecture,entertainment::
+712:Nepal One Adventure Pvt ltd:history::
+713:Hoshizora Treks & Tour:history::
+714:Global Nepal Treks:::
+715:Pigeon Travels-Nepal:history,art_and_architecture,entertainment::
+716:Adventure Land Nepal:adventure::
+717:Ecstatic Himalaya:nature,adventure,entertainment::
+718:Walkers Expedition:nature,adventure::
+719:Institute of Natural Medicine:health_and_lifestyle::
+720:Friendly Pashmina Export:history,art_and_architecture::
+721:Royal Holidays Treks & Expeditions:nature,adventure::
+722:Nepal Pyramids Trekking & Climbing:history,art_and_architecture,entertainment::
+723:Take Me Trekking:adventure::
+724:Himalaya Arirang Trek Private Limited - Kathmandu Sightseeing:adventure::
+725:Holy Sherpa Visioin Treks & Travel:history::
+726:Sawasdee Nepal Treks and Tours:history,art_and_architecture,entertainment::
+727:Nepal Ecology Treks:adventure::
+728:Big Sky Treks & Expeditions:history,art_and_architecture,entertainment::
+729:Heaven Himalaya:adventure::
+730:Mountain Ascend Treks:history::
+731:Exotic Mt Treks Pvt Ltd:nature,adventure::
+732:Nepal Altitude Treks & Expedition Private Limited:history::
+733:Baniya Travel:history::
+734:Mystic Himalaya Trekking & Expedition:history::
+735:Sole Encounters Nepal:adventure::
+736:Mother Land Nepal Trekking & Expedition:history::
+737:Himalaya Land Treks & Expedition:history::
+738:Himalaya Travel Adventures:history::
+739:Raya Tours and Travels - Private Day Tours:nature::
+740:Alpine Glacier Treks:nature,adventure::
+741:Waiba Adventure Trek:adventure::
+742:Samsara Trekking:history,art_and_architecture,entertainment::
+743:Pathfinder Treks & Expedition:adventure::
+744:The Himalayan Odyssey:history::
+745:Easy Trip Nepal:history,art_and_architecture,entertainment::
+746:Himalaya View Treks:nature,adventure::
+747:Sherpa Guide Nepal:history::
+748:Euro-Asia Tours and Travels - Day Tours:art_and_architecture,nature,adventure::
+749:Sherpa Holidays:nature,adventure,entertainment::
+750:BMS Adventures:history::
+751:Mountain Top Travels:history::
+752:Adventure Speed - Private Day Tours:nature::
+753:Boundless Himalayas Trekking and Expedition Pvt Ltd:history::
+754:Blossom Expeditions Pvt Ltd:history,art_and_architecture,entertainment::
+755:Mountain River Rafting - Private Day Rafting:nature,adventure,entertainment::
+756:Excellent Himalaya Trek and Expedition:adventure::
+757:Ajay Treks & Expedition Pvt Ltd:adventure::
+758:Sunrise Jewelry Making Classes:history,art_and_architecture::
+759:Upscale Adventures:history::
+760:Heian Treks & Expeditions:art_and_architecture,religious::
+761:Encounters Nepal:art_and_architecture,nature,adventure::
+762:Ultimate Descents Nepal:nature::
+763:Smile Adventure and Tours -  Day Tours:art_and_architecture,religious::
+764:Trek into Thin Air:adventure::
+765:Team Himalaya Pvt Ltd:history,art_and_architecture,entertainment::
+766:Ace Holiday Treks:adventure::
+767:Distinctive Nepal:history,art_and_architecture,entertainment::
+768:Moonlight Nepal Trekking and Adventure:art_and_architecture,religious::
+769:Amazing Nepal Adventure:adventure::
+770:Epic Rides Nepal - Mountain Biking Trips:adventure,entertainment::
+771:Himalayan Suite Spa and Restaurant:health_and_lifestyle::
+772:Global Treks & Expedition:nature,adventure,entertainment::
+773:Approved Holidays:art_and_architecture,religious::
+774:Snow View Trek & Expedition:adventure::
+775:Nepal Adventure Team:history::
+776:Mountain Trotters Treks and Expedition - Day Tours:adventure::
+777:Himalayan Leaders:nature,adventure,entertainment::
+778:Bidur Adhikari:history::
+779:Trekadviser:history,art_and_architecture,entertainment::
+780:Forever Trek Nepal:art_and_architecture,religious::
+781:Gorkha Zone Khukuri House:history,art_and_architecture::
+782:Lhasso Adventure:history,art_and_architecture,entertainment::
+783:Mountain Rock Treks And Expedition:history,art_and_architecture,entertainment::
+784:Higher Path Treks & Expedition:adventure::
+785:Eco Himalaya Treks & Travels:adventure::
+786:Liberty Holidays:adventure::
+787:Santosh Gauli, Nepal Everest Guide- Day Hike:adventure::
+788:iTREK Everest:history::
+789:Himalaya Journey:art_and_architecture,nature,adventure::
+790:Himalayan Hikers Expedition:history,art_and_architecture::
+791:Hiking Himalayas Trek and Expedition Private Day Tours:adventure::
+792:Himalayan Exodus Treks & Tours:history,art_and_architecture,entertainment::
+793:Hike Nepal:art_and_architecture,religious::
+794:Wind Horse Adventures:history,art_and_architecture::
+795:Travel Pinto:history,art_and_architecture,entertainment::
+796:Nepal One Tours & Travels:history::
+797:Blue Himalaya Tours & Travels:history,art_and_architecture,entertainment::
+798:Shishir Thapa:history,art_and_architecture,entertainment::
+799:Everest Irish Bar:entertainment::
+800:Open Trail Treks:nature,adventure::
+801:Vehicles Hire Nepal:history,art_and_architecture,entertainment::
+802:Pioneer Adventure:history::
+803:Time in Nepal:art_and_architecture,religious::
+804:We Trek Nepal:art_and_architecture,religious::
+805:Mount Heaven Spa:health_and_lifestyle::
+806:White Himalayan Adventure Treks:history::
+807:Overland Vehicle:history,art_and_architecture,entertainment::
+808:Rising Adventure:history,art_and_architecture::
+809:Vehicles Nepal:art_and_architecture,religious::
+810:Padma Healing Arts:health_and_lifestyle::
+811:Shambhala Holidays:history,art_and_architecture::
+812:Nepal Holiday Trek - Langtang Heli Tour:nature,adventure::
+813:Ace Holidays - Day Tours:history,art_and_architecture,entertainment::
+814:Alpinetrav Treks & Expeditions:history,art_and_architecture,entertainment::
+815:Trek Ape:history::
+816:Nepal Himalayan Hiker Trek & Expedition:history::
+817:Expedition HimalayaCom Pvt Ltd:history::
+818:Big Smile Nepal:nature,adventure,entertainment::
+819:Circuit Nepal Trek & Expedition:history,art_and_architecture,entertainment::
+820:Cast Holiday Pvt Ltd:history,art_and_architecture,entertainment::
+821:Shalom Treks:::
+822:Buna Treks & Expedition - Private Day Tour:adventure::
+823:Mark Shrestha - My Tour Guide in Nepal:history::
+824:Namaste Spa:health_and_lifestyle::
+825:Sherpa Society Trekking:art_and_architecture,nature,adventure::
+826:The Explore Nepal:history,art_and_architecture,entertainment::
+827:Beyul Travel and Treks:history::
+828:Glacier Adventure Company - Day Tours:history,art_and_architecture,entertainment::
+829:Nepal Nomad Trekking:nature,adventure::
+830:Adventure Victory Team:history::
+831:Incredible Himalayan Sherpa Adventure Pvt Ltd:nature,adventure,entertainment::
+832:Mount Fishtail Adventure - Day Tours:nature,entertainment::
+833:Love Kathmandu Walking Tours:art_and_architecture,religious::
+834:Reasonable Treks And Tour:history,art_and_architecture,entertainment::
+835:Neo Transports:::
+836:Trek Around Himalayas:history::
+837:Himalayan Hermitage:history::
+838:Holiday Mountain Treks - Private Day Tours:adventure::
+839:Desire Adventures:nature,adventure::
+840:High Spirit Treks and Expedition Nepal:history::
+841:Himalaya Darshan Treks:history::
+842:Parikrama Treks & Expedition - Day Tours:entertainment::
+843:Tourist Vehicle Service:history::
+844:Explore Nepal Mountain - Kathmandu:history::
+845:Himalayan Trails:art_and_architecture,religious::
+846:Adventure Sports Nepal:nature,adventure,entertainment::
+847:Trek Excursion:history,art_and_architecture,entertainment::
+848:Safe Holiday Adventure:history::
+849:Nepal Dream Path:art_and_architecture,religious::
+850:Expert Asian Tours and Travel - Day Tours:art_and_architecture,nature,adventure::
+851:Himalayan Holidays:art_and_architecture,religious::
+852:Hope Treks:adventure::
+853:Kathmandu Paragliding:adventure::
+854:Himal Eco Treks:history::
+855:Adventure Sherpa Tracks:history::
+856:Nepal Helicopter Tour:nature,adventure::
+857:Accessible Adventure:history,art_and_architecture,entertainment::
+858:Snowland Treks & Expedition:art_and_architecture,religious::
+859:Success Adventure Treks:history,art_and_architecture,entertainment::
+860:Orbit Alpine Adventure:art_and_architecture,religious::
+861:Jhamka Trekking Team:history,art_and_architecture,entertainment::
+862:Seeing Hands:health_and_lifestyle::
+863:Vision Adventure Nepal:history::
+864:Swissa Rafting & Trekking Expedition:adventure,entertainment::
+865:Real Himalaya Private Day Tour:adventure,entertainment::
+866:Yatra Tours and Travels:nature,adventure,entertainment::
+867:Nepal Hiking Himalaya:art_and_architecture,religious::
+868:Sea To Summit Trekking:art_and_architecture,nature,adventure::
+869:Tashi Delek Nepal Treks and Expeditions:adventure::
+870:Himalayan Adventure Sports:history,art_and_architecture,entertainment::
+871:Mantra Adventure:history::
+872:Himal Mandap Treks & Expedition - Private Day Tours:adventure::
+873:Himalayan Travel Partner:history,art_and_architecture,entertainment::
+874:Kailash Adventure:history,art_and_architecture,entertainment::
+875:Adventure Solu Trekking & Tour:history::
+876:Nepal Treks and Tour:history::
+877:Namaste Nepal Trekking & Research Hub Pvt Ltd:history::
+878:Nepal Environmental Treks & Expedition - Flight Day Tour:nature::
+879:Eve Holidays:history,art_and_architecture::
+880:The Himalayan Journeys Nepal:nature,adventure::
+881:Kedar Craft:history,art_and_architecture::
+882:Asia Experiences:history,art_and_architecture,entertainment::
+883:Amazing Himalaya Trekking Pvt Ltd:history::
+884:Adventure Ascent:history::
+885:Ananya Holidays - Private Day Tour:history::
+886:Pink Mountain Travels and Excursions - Private Day Tours:nature::
+887:Sherpa Expedition & Trekking:history::
+888:Pyrenees Nepal Treks and Trails:history::
+889:Adventure High Mountain:history::
+890:Himalaya Sunrise Treks And Expedition PvtLtd:history,art_and_architecture,entertainment::
+891:Leaf Holidays Treks & Expedition:adventure::
+892:W Adventures Nepal:history::
+893:Makalu Adventure:art_and_architecture,religious::
+894:Trek in Nepal Peak Adventures:history,art_and_architecture,entertainment::
+895:Firante Treks and Expeditions:history::
+896:Himali Dreams:history::
+897:Yatri Car Rental:history,art_and_architecture,entertainment::
+898:Sacred Summits:history::
+899:Himalaya Family Adventure:history,art_and_architecture::
+900:Lion Heart Travel And Tours:adventure::
+901:Himalayan Eco Treks & Travel:adventure::
+902:See Nepal Travel & Adventure - Day Tour:nature,adventure,entertainment::
+903:Himalaya Dream Adventure:history,art_and_architecture,entertainment::
+904:Friendship Cooking School:industries::
+905:KP Treks:history::
+906:Din Travel and Tours PvtLtd:history,art_and_architecture,entertainment::
+907:Au Coeur Du Nepal Treks and Expedition:history::
+908:Randonnee Nepal Treks:art_and_architecture,religious::
+909:Gaurisankar Himalaya Treks and Expedition:history::
+910:Independent Trekking Guide Cooperative:history,art_and_architecture,entertainment::
+911:Brave Heart Himalaya Treks:history::
+912:Adventure All Nepal Treks - Day Tours:history,art_and_architecture::
+913:Lig Lig Travel:::
+914:Seven Women:industries::
+915:Timeless Spa:health_and_lifestyle::
+916:Vertex Holiday:adventure::
+917:Eco Ventures Treks and Expedition:history::
+918:Going Nepal Pvt Ltd, Tailor-made DMC in Nepal:history,art_and_architecture,entertainment::
+919:Mega Treks & Expedition -Private Day Tours:nature,adventure::
+920:Exciting Nepal Holidays Treks:nature::
+921:Trekking Plus:adventure::
+922:Everest Glacier Trek Pvt Ltd:history::
+923:Home Of Treks & Extreme Expedition pvt ltd:history::
+924:Nepal Holiday Makers Tours and Travels:history,art_and_architecture,entertainment::
+925:Nepal Big Mountain Travel Company:adventure::
+926:Adventure Alpine Gorkha Treks & Expeditions Pvt Ltd:history::
+927:Serenity Spa:health_and_lifestyle::
+928:Incredible Adventure Nepal:nature,adventure,entertainment::
+929:Revival Nepal Adventure:nature,adventure,entertainment::
+930:Overland Trek Nepal:adventure::
+931:Wild Tracks Nepal - Himalayan Motorcycle Journeys:art_and_architecture,nature,adventure::
+932:Wild Adventure Nepal:history::
+933:Regulus Treks and Expedition:history,art_and_architecture,entertainment::
+934:Alpine Holidays Pvt Ltd:history::
+935:Trek With Ngima:history::
+936:Himalayan Hub:history::
+937:Three Diamond Adventure:nature,adventure::
+938:Osho World Adventure:history::
+939:Travel Away Treks and Expedition:history::
+940:Access The Asia:history,art_and_architecture,entertainment::
+941:Marron Treks - Day Tours:adventure::
+942:Trek Guiders:art_and_architecture,religious::
+943:Transportation Link Nepal:::
+944:Kundalini Sound & Herbal Therapy:industries::
+945:Snow Dragons Nepal Treks:history::
+946:Travel Umpire:history::
+947:Himalayan High Spirits Adventures:history::
+948:Hiking Nepal:history,art_and_architecture,entertainment::
+949:Himalayan Asia Treks:history,art_and_architecture,entertainment::
+950:Ecological Treks Private Limited - Day Hiking Tours:adventure::
+951:Classic Escapades:history::
+952:Broad Adventure - Day Tours:history,art_and_architecture::
+953:Beyond Borders Ethical Adventures:history::
+954:Marvel Treks And Expedition:adventure::
+955:Spa Samsara:health_and_lifestyle::
+956:Alaya Holidays:history::
+957:Mountain Path Treks & Expedition:history::
+958:Dream Discovery Treks Pvt Ltd:history::
+959:Dus Travel:history::
+960:Trekking Through Nepal:history::
+961:Holiday Hiking:adventure::
+962:Adventure Highpass:history,art_and_architecture,entertainment::
+963:High Camp Adventure:nature,adventure::
+964:Himalayan Rock Treks & Expedition:history::
+965:Pure Adventure Nepal - Day Tours:art_and_architecture,nature,adventure::
+966:Partages Népal Treks:nature,adventure::
+967:Connections Nepal Treks:history::
+968:Global Link Tours & Travel:nature::
+969:Eye On Himalaya:nature,adventure,entertainment::
+970:Sherpanomads:history::
+971:Yeti Trail Adventure - Day Tours:adventure::
+972:SASANE Sisterhood Trekking and Travel:history::
+973:Hairy Yak Adventures:history::
+974:Golden Nepal Holidays PvtLtd:history::
+975:Adventure Discovery Treks & Expedition:history::
+976:Gandaki Village Trekking and Travel:nature,adventure,entertainment::
+977:Nepal Recreation:history::
+978:Om Holidays Tour & Trek:history::
+979:Buddha Bar:entertainment::
+980:yoga & meditation retreat with monks:history,art_and_architecture::
+981:Wayfarers Himalaya Journeys:history,art_and_architecture::
+982:Mountain Brave Adventures:adventure::
+983:Himalaya Discovery Adventures:art_and_architecture,religious::
+984:Himalaya Thunder Treks Day Tours:nature,adventure::
+985:Glacier Family Treks & Expedition:art_and_architecture,religious::
+986:Himalayan Exploration Treks:art_and_architecture,religious::
+987:Madam Tours:art_and_architecture,religious::
+988:Hike On Travel and Trek Pvt Ltd:history::
+989:InspireU Adventures:art_and_architecture,religious::
+990:High Route Adventure:history::
+991:TREKT Himalaya:nature,adventure,entertainment::
+992:The Himalaya Trekking Company:art_and_architecture,religious::
+993:Shin Haru Treks & Expedition - Day Tours:adventure::
+994:Adventure Thamserku:adventure::
+995:Shepherd Holidays:history::
+996:HST Adventures:nature,adventure,entertainment::
+997:Sherpa Guides Nepal Treks & Expeditions PvtLtd:adventure,entertainment::
+998:Northstar Voyage:history::
+999:Laser Travel and Tours PLTD:art_and_architecture,religious::
+1000:Climb High Himalaya:nature,adventure::
+1001:Trek to Nepal:history::
+1002:World Alpine Treks:::
+1003:Reliance Trekking:history,art_and_architecture,entertainment::
+1004:Swan Valley Treks & Expedition:history,art_and_architecture,entertainment::
+1005:Himalayan Friendly Treks:art_and_architecture,religious::
+1006:Ideal Nepal Tours and Travels:history::
+1007:Nepal High Trek & Expedition:history,art_and_architecture,entertainment::
+1008:Nepal Everest Adventures:history,art_and_architecture,entertainment::
+1009:Kara Pashmina:history,art_and_architecture::
+1010:Asian Adventure Treks and Expedition - Nepal Mountain Flight Day Tours:nature::
+1011:Rajendra Ramtel:adventure::
+1012:Odyssee Nepal Trekking:history::
+1013:Taleju Adventure:history,art_and_architecture,entertainment::
+1014:Highland Eco Trek:art_and_architecture,religious::
+1015:UNLIMITED HIMALAYA ADVENTURES PVT LTD:history::
+1016:Pleasant Path Treks And Expedition:history,art_and_architecture,entertainment::
+1017:Api Himal Treks & Expedition:art_and_architecture,religious::
+1018:Proud Nepal Travel and Expedition:history::
+1019:Sasane - Momo Cooking Class:food::
+1020:Himalayan Entrance Treks PvtLtd:history::
+1021:Evergreen Tours:history,art_and_architecture,entertainment::
+1022:Nomad's Land:adventure::
+1023:My Asia Holidays:history,art_and_architecture,entertainment::
+1024:Elephant Tours:history::
+1025:Uma Holidays Travels & Tour:history::
+1026:Nepal Yoga Teacher Training & Retreat Center:history::
+1027:Trekking Encounters Nepal - Day Tours:art_and_architecture,religious::
+1028:Spa Prana:health_and_lifestyle::
+1029:Walkabout International:nature,adventure::
+1030:Kathmandu Sport Climbing Center:entertainment::
+1031:Ace Heritage Nepal  Private Day Tour:art_and_architecture,religious::
+1032:Rustic Himalayan Adventure:nature,adventure,entertainment::
+1033:Shiva Treks and Expeditions:history::
+1034:Kathmandu Center Of Healing:health_and_lifestyle::
+1035:Beauty Spa Hub:health_and_lifestyle::
+1036:Nepal Mountain Lovers Treks and Expedition (P) Ltd Day Tours:adventure::
+1037:Explore Dream Nepal Tours:history::
+1038:Adventure World Club:history::
+1039:White Lotus Adventure:history,art_and_architecture,entertainment::
+1040:World Heritage Treks - Private Day Tours:history,art_and_architecture::
+1041:Nepal Adventure Point:nature,adventure::
+1042:Kingfisher Adventure & Treks:adventure::
+1043:Himalayan Adventure Intl Treks & Expedition:adventure::
+1044:Book Cab Now:::
+1045:Adventure Gaurishankar - Day Tours:nature,adventure,entertainment::
+1046:Friendship Trekking Pvt Ltd:history,art_and_architecture,entertainment::
+1047:Alpine Kailash Trek:history::
+1048:Alpine Journeys Treks & Expedition - Private Day Tours:adventure::
+1049:Himalayan Vacation Treks & Expedition Pvt Ltd:history::
+1050:Guidea Treks & Expedition - Day Tours:adventure::
+1051:Discover Altitude:history::
+1052:Nepal Holiday Treks and Tours:history,art_and_architecture::
+1053:Boss Adventure:art_and_architecture,religious::
+1054:Keep Walking Nepal Treks and Expeditions:nature,adventure::
+1055:Green Hiker Treks Chisapani Private Day Trip:adventure::
+1056:Jatra Travels:adventure::
+1057:Miteri Nepal International Trekking:art_and_architecture,religious::
+1058:Dream Himalaya Adventures Pvt Ltd:history,art_and_architecture,entertainment::
+1059:Himalayan Icefall Trekking:history::
+1060:Explore Vacation Pvt Ltd:history::
+1061:Nepal Mountain Bike Tours:adventure,entertainment::
+1062:Mega Mount Trekking & Expedition:history::
+1063:Bike Hub:adventure,entertainment::
+1064:Beside The Himalayan Treks:art_and_architecture,religious::
+1065:Buddha Treks Group:adventure,entertainment::
+1066:Nepal Female Trek - Day Tours:adventure::
+1067:Great Panorama Treks & Expedition:history::
+1068:Nepalese Trekking:nature,adventure,entertainment::
+1069:Mountain Miracle Treks and Expedition Pvt Ltd:history::
+1070:Peregrine Treks and Tours:nature,adventure::
+1071:Salvation Travel:history::
+1072:Travel With Me Nepal:adventure::
+1073:Nepal Trail Finder Treks & Expedition:history::
+1074:Adventure Tansen Trek:history::
+1075:Explore Himalayan:history::
+1076:All Trekker's Team:history::
+1077:Rainbow Adventure Treks & Tours:history::
+1078:Himalaya Walking Tours and Travels:history,art_and_architecture::
+1079:Ktenzing Adventure:nature,adventure::
+1080:Off The Beaten Path Trek:nature,adventure::
+1081:Footloose in the Himalaya Pvt Ltd:history,art_and_architecture,entertainment::
+1082:Apex Himalaya Treks & Expedition:history::
+1083:Base Camp Excursion:history::
+1084:Travel to Himalayas Pvt Ltd Nepal::Multi-day Tours • Canyoning & Rappelling Tours:
+1085:Red Rose Travel, Tours and Treks PLtd:history,art_and_architecture,entertainment::
+1086:Travel Max Guide - TMG Adventure:history::
+1087:Yala Adventure Pvt Ltd:history::
+1088:Nepal Wonders Treks:nature,adventure::
+1089:Cultural Treks & Expedition:art_and_architecture,religious::
+1090:Khumbu Adventures:art_and_architecture,religious::
+1091:Trail Blazer Travels & Tour P Ltd:history,art_and_architecture,entertainment::
+1092:Pranamaya Yoga:health_and_lifestyle::
+1093:Namaste Treks:nature,adventure::
+1094:Everest Tour Nepal Treks & Expedition Pvt Ltd:history::
+1095:Nepalese Pashmina & Cashmere Shop:history,art_and_architecture::
+1096:Crimson Nepal Adventure:art_and_architecture,religious::
+1097:Go Trek Nepal Day Tour:history,art_and_architecture,entertainment::
+1098:Himalayan Ski Trek:history::
+1099:Nepal Mountain Company Pvt Ltd:::
+1100:Himalayan Challenge Treks:history::
+1101:Himal Tourism PvtLtd:history::
+1102:Trexmount Ventures:history::
+1103:Mountain Routes:nature,adventure::
+1104:Everest Extreme Adventure:nature::
+1105:Friday Travel Nepal:history::
+1106:Blue Lake Travels And Tours Pvt Ltd:art_and_architecture,nature,adventure::
+1107:Hidden Journeys Private Day Tours:nature::
+1108:Cheap Trip Nepal and Himalaya Adventure Group:history,art_and_architecture,entertainment::
+1109:"Best Treks In Nepal -  Nepal Tour Packages : Best Treks Ghorepani Poon Hill Trek":history::
+1110:Hello Travels:nature,adventure::
+1111:Adventure Mountain Treks and Expedition (P) Ltd:history::
+1112:Neeru's Spa at Shivapuri Heights Cottage:health_and_lifestyle::
+1113:HImalayan Glow Treks & Expedition:art_and_architecture,religious::
+1114:Adventure Kora:history::
+1115:Peaches The Wax Bar:health_and_lifestyle::
+1116:Mountain Hiking and Trekking - Day Tours:art_and_architecture,religious::
+1117:San Trekking Nepal:history::
+1118:Shambhala Trekking:nature,adventure::
+1119:Duke Nepal Adventure:history,art_and_architecture,entertainment::
+1120:Plan Holidays Travel and Tours (P) Ltd:history,art_and_architecture,entertainment::
+1121:Advent Himalaya Treks:history::
+1122:Himalayan Destinations:history::
+1123:Himalayan Discovery Trek:history::
+1124:Saribung Adventure - Day Tour:art_and_architecture,religious::
+1125:International Sherpa Adventure Private Day Tours:nature::
+1126:Baber Mahal Revisited:history,art_and_architecture::
+1127:Yeti Travels - Private Day Tours:adventure,entertainment::
+1128:Green Society Adventure:history,art_and_architecture,entertainment::
+1129:Nepal Music Gallery:history,art_and_architecture::
+1130:Northcliff Treks & Expedition:history,art_and_architecture,entertainment::
+1131:Roof of the Himalayas:history::
+1132:Nature Connection Treks & Tours:history,art_and_architecture,entertainment::
+1133:East and West International Tours and Travels - Private Day Tours:nature::
+1134:Mountain Expedition Nepal (MEN) - The Expedition Expert:history::
+1135:Water By Nature - Nepal:nature,adventure,entertainment::
+1136:Himalayan Trail Finder Adventure Center:history,art_and_architecture,entertainment::
+1137:Base Camp Hike:history::
+1138:Protrek Adventure:history::
+1139:Vintage Travels & Tours:history,art_and_architecture,entertainment::
+1140:Far Out Nepal:history,art_and_architecture,entertainment::
+1141:Yoga With Chintamani:health_and_lifestyle::
+1142:Eco Holidays Asia:history::
+1143:Crusade Himalaya:history::
+1144:8000 Expeditions:history::
+1145:Fishtail Tours & Travels:nature,adventure,entertainment::
+1146:Yatri Spa:health_and_lifestyle::
+1147:Annapurna Trekking Agency:history::
+1148:Adventure Mountain Nest:history::
+1149:Best Nepal Trekking:art_and_architecture,religious::
+1150:Himalayan Vision Treks:history,art_and_architecture,entertainment::
+1151:Golden Nepal Trek & Expedition:history::
+1152:My Nepal Treks and Expedition Pvt Ltd - Private Day Tours:adventure::
+1153:Mountain Guide Trek & Expedition:nature,adventure,entertainment::
+1154:Patasi Cashmere:history,art_and_architecture::
+1155:Nature Heaven Treks and Expedition:history::
+1156:Tranquility Spa - Soaltee Crowne Plaza:adventure,health_and_lifestyle::
+1157:Adventure International Trekking:history::
+1158:Nomadic Nepal:history::
+1159:Holy Mountain Treks:history::
+1160:Himalayan connection:history,art_and_architecture,entertainment::
+1161:Om Singing Bowls & Healing hub:industries::
+1162:High Five Adventures:history::
+1163:Himalayan Yogi Adventure:adventure::
+1164:Tailored Treks and Expeditions:nature,adventure::
+1165:Apsana International Treks and Expedition Private Limited:history::
+1166:Swami Narayan Travels Pvt Ltd:history::
+1167:Himalayan Snow Treks and Expedition:history::
+1168:Travelsmith Nepal:history,art_and_architecture,entertainment::
+1169:Adventure Mountain Club:history,art_and_architecture,entertainment::
+1170:Bespoken Himalayan Treks:history::
+1171:Bikemandu:history::
+1172:Wanderlust Yoga:history::
+1173:Nepal Glory Treks:history::
+1174:Family Adventure Treks and Expedition - Private Day Tours:adventure::
+1175:Himalayan Treks:art_and_architecture,religious::
+1176:Outdoor Compass Trekking Shop:history,art_and_architecture::
+1177:Om Holidays Tour and Trek Private Limited:history::
+1178:New Barber Shop:health_and_lifestyle::
+1179:Mission Nepal Holidays - Day Tours:art_and_architecture,religious::
+1180:Holistic Health Yoga Studio:health_and_lifestyle::
+1181:Altimate Himalaya:history::
+1182:Himalayan Eco-Culture Treks & Research Expeditions:history::
+1183:Smiling Buddah Trekking & Cultural Tours:history::
+1184:Nepal Yetiraj Treks:history,art_and_architecture,entertainment::
+1185:Trail Himalaya:history::
+1186:Asian Mystery Treks - Private Day Tours:adventure::
+1187:Z Store:entertainment::
+1188:Golden Gate Holidays Travels & Treks:history,art_and_architecture,entertainment::
+1189:Happy Holiday Treks and Expedition:nature::
+1190:Mount Adventure Holidays:history::
+1191:Everest Base Camp Helicopter Tour:nature,adventure::
+1192:Wellness Organic Club - Spa:health_and_lifestyle::
+1193:Himalaya Kailash Travels & Tours:art_and_architecture,religious::
+1194:Skyline Treks and Expedition Pvt Ltd Day Tours:adventure::
+1195:Shankarapur Paragliding:adventure::
+1196:Hole in the Wall:entertainment::
+1197:Trek Leader Expeditions - Day Tours:history,art_and_architecture,entertainment::
+1198:Adventure Mountain Express:art_and_architecture,religious::
+1199:Helping Hand Handicrafts:history,art_and_architecture::
+1200:First Himalayan:history::
+1201:Emerging Nepal Trek - Kathmandu Day Tour:nature::
+1202:Great Nepal Travels - Kirtipur City Sightseeing Tour:history,art_and_architecture,entertainment::
+1203:Soulful Nepal Holidays Pvt Ltd:history,art_and_architecture,entertainment::
+1204:Tripdeal365:history::
+1205:Heavenly spa:health_and_lifestyle::
+1206:Namaste Treks And Expeditions Pvt Ltd:history::
+1207:Himalayan Circuit:history::
+1208:AY Adventure Treks & Expedition:adventure::
+1209:Nepal Inside Out Treks & Tours:history::
+1210:Nepal Glacier Treks & Expedition:history::
+1211:Everest View Treks And Expedition:history::
+1212:Grande Adventures:history::
+1213:Alpine Explore Nepal - Day Tours:nature,adventure::
+1214:Avishek Paudel:history::
+1215:Mystik Mountains Adventure and Holidays:history::
+1216:Ritual Thanka:history,art_and_architecture::
+1217:Nepal Everest Base Camp Trekking Company PvtLtd:history::
+1218:Ace Transport:::
+1219:Himaland Adventure - Nepal:history::
+1220:vnepalcom:history::
+1221:Pilgrims Travel & Tours:history::
+1222:Passages Nepal Pvt Ltd:art_and_architecture,nature,adventure::
+1223:Great Nepal Treks & Expedition Pvt Ltd:history,art_and_architecture::
+1224:GeTS Holidays Nepal:history::
+1225:Foot and Shadows Private Day Tours:nature::
+1226:Royal Mountain Trekking Nepal Pvt Ltd:history::
+1227:Nepalaya Spa:health_and_lifestyle::
+1228:Real Adventure Nepal - Private Day Tours:nature::
+1229:Well Adventure Tours and Travel:art_and_architecture,religious::
+1230:Kamana Transport Service:::
+1231:Aspiration Adventure:history::
+1232:DMT Adventure:history::
+1233:Bodhi Tours and Treks:history::
+1234:Hidden Paradise Adventure:history,art_and_architecture,entertainment::
+1235:MyTrip2Nepal:history::
+1236:Treks Himalaya:history,art_and_architecture,entertainment::
+1237:Corporate Travel Private Tours:history,art_and_architecture,entertainment::
+1238:Adventure 14 Peaks:nature,adventure::
+1239:Inland Expeditions:::
+1240:Kathmandu Holiday Tours & Travels:history,art_and_architecture,entertainment::
+1241:FlashpackerConnect:history,art_and_architecture,entertainment::
+1242:Om Sherpa treks:history::
+1243:Amrita Craft Pvt Ltd:history,art_and_architecture::
+1244:Vista Adventure Nepal:art_and_architecture,religious::
+1245:City & Guides:history,art_and_architecture,entertainment::
+1246:Asia Buddhist Tours & Treks:history,art_and_architecture,entertainment::
+1247:Miracle SPA:health_and_lifestyle::
+1248:Pinnacle Treks and Expedition:art_and_architecture,religious::
+1249:Nepal Himalayan Sherpa Adventure:history::
+1250:Amazing Authentic Treks:history,art_and_architecture,entertainment::
+1251:Lets Go Hiking Nepal Treks:history::
+1252:Mountain Challenger Trek and Expedition:art_and_architecture,religious::
+1253:Yogi-nomad:health_and_lifestyle::
+1254:Adventure Steps Nepal:history::
+1255:Royal Himalayan Safari:history::
+1256:Himalayan club Tours and Travel:history::
+1257:Club OMG:entertainment::
+1258:Sisa Holidays Tours:history,art_and_architecture,entertainment::
+1259:Medieval Tours & Travels:art_and_architecture,nature,adventure::
+1260:Private Nagarkot Hiking Day Tour:adventure::
+1261:Touch Kailash Travels & Tours:art_and_architecture,religious::
+1262:Lets Trip Nepal:history::
+1263:Galaxy World Travels:history,art_and_architecture,entertainment::
+1264:Superb Catalyst Trekking and Tour PvtLtd:history::
+1265:De Himalaya:adventure::
+1266:Community Homestay Network:history::
+1267:Alliance Treks and Expeditions:history,art_and_architecture,entertainment::
+1268:Tibetan Naro Tsalung Yoga & Mindfulness:health_and_lifestyle::
+1269:Himalayan Trails Trekking & Climbing Pvt Ltd:history,art_and_architecture,entertainment::
+1270:Summit Nepal Trekking - Day Tours:adventure,entertainment::
+1271:MyNepalonline:art_and_architecture,religious::
+1272:Everest Vacation:history,art_and_architecture,entertainment::
+1273:Altitude Himalaya:history::
+1274:Gallery Himalaya Treks & Expedition:adventure::
+1275:Zen Adventure Holidays:art_and_architecture,religious::
+1276:Hiker Himalaya Treks & Expedition Pvt Ltd:history::
+1277:Namaste Journeys:history::
+1278:Metro Everest Treks & Expedition:history::
+1279:Plan Nepal Treks & Expedition:history::
+1280:Thamel Travels and Tours:history,art_and_architecture,adventure,religious::
+1281:The Blue Space Nepal:history::
+1282:Incredible Mountains:history::
+1283:Anu Treks International - Private Day Tours:adventure::
+1284:UpHimalayas:history,art_and_architecture,entertainment::
+1285:Base Camp Everest trek:adventure::
+1286:Everest One:history::
+1287:Star World Tours & Travels P Ltd:history::
+1288:Karma Holidays:history,art_and_architecture,entertainment::
+1289:Everest Cooking Class and Meal in a Kathmandu Grill Restaurant & Wine Bar:food::
+1290:Trekking the Himalaya:history::
+1291:Red Reach Himalaya Trek:history::
+1292:Nature Knit:history,art_and_architecture::
+1293:Grade Five Adventures Nepal:history,art_and_architecture::
+1294:Ski Guides Nepal:history::
+1295:Ace Hiking:adventure,entertainment::
+1296:8 Eyes Travel:history,art_and_architecture,entertainment::
+1297:Himalayan Wanderer - Private Day Tours:history,art_and_architecture::
+1298:Masseur SPA:nature,adventure::
+1299:One Tree Stop:history,art_and_architecture::
+1300:Trip Concern Pvt ltd:history,art_and_architecture,entertainment::
+1301:AmaDablam Adventures:history::
+1302:Tenjin Eco Trek:nature,adventure::
+1303:Himalaya Caravan Adventure:entertainment::
+1304:Traveling Spoon:food::
+1305:Rum Doodle:entertainment::
+1306:Alpha and Omega Yoga Center:health_and_lifestyle::
+1307:Nepal Dream:history::
+1308:The Himalayas:history::
+1309:Tranquility Spa:health_and_lifestyle::
+1310:Shona's Alpine:history,art_and_architecture::
+1311:Himalayan Wild Treks:history::
+1312:Ganesh Himal Trekking & Tours:adventure::
+1313:Beat Trekking:adventure::
+1314:Navigate Outdoor:history::
+1315:Paradise Destination:adventure::
+1316:Nepatrek:history::
+1317:Mactrek & Expedition (P) Ltd - Helicopter Day Tours:nature,adventure::
+1318:World Highest Trek:history::
+1319:Trip To Nepal:art_and_architecture,religious::
+1320:Beyond Base Camp Treks:adventure,entertainment::
+1321:Tiger Encounter:history::
+1322:Nepal Treks Tours:history::
+1323:Trek With Ngima:history::
+1324:Rhododendron Adventure:art_and_architecture,nature,adventure::
+1325:Everest Mountain Bike - Day Tours:adventure,entertainment::
+1326:Carena Trek & Adventure:history::
+1327:Himalayan Travel Consultant:::
+1328:Diana Travels & Tours PVTLTD and Diana Trekking:history::
+1329:Bootprints:nature,adventure::
+1330:Botanical Treks & Excursion:adventure::
+1331:Swiss - Nepal Family Trekking & Expedition:history,art_and_architecture,entertainment::
+1332:Nepal Motorbike Tour:history::
+1333:Nepal Venture Treks & Expedition Pvt Ltd:nature,adventure::
+1334:Ajay Dahal:history::
+1335:New Road Travels:::
+1336:Nepal Everest Himalaya Hiking Pvt Ltd:adventure,entertainment::
+1337:Everest Flight (P) Ltd:nature,adventure::
+1338:Himalayan Companion Treks and Expedition PvtLtd:history::
+1339:Sasane Sisterhood Trekking and Travel:history,art_and_architecture,entertainment::
+1340:Adventure Blossom Treks and Expedition PvtLtd:nature,adventure::
+1341:Great Everest Trek:history::
+1342:EliteTreks:history::
+1343:Himalayan Spa, Thamel:health_and_lifestyle::
+1344:One Life Adventure Team:history,art_and_architecture,entertainment::
+1345:Visit Himalaya Treks:history::
+1346:Goreto Treks:history::
+1347:Danphe Adventure:history::
+1348:Oriental Journeys Tours:history,art_and_architecture,entertainment::
+1349:VSN Tour & Treks Nepal:history,art_and_architecture,entertainment::
+1350:Messenger Tours and Travel:history::
+1351:Wild Yeti:entertainment::
+1352:Tribeni Trek:history::
+1353:Rafting Star:nature,adventure,entertainment::
+1354:Mercy Holidays:history,art_and_architecture,entertainment::
+1355:Himalayan Excursion Nepal:history,art_and_architecture,entertainment::
+1356:Together Nepal Travel & Tours:history,art_and_architecture,entertainment::
+1357:Explore Dolpo:history::
+1358:Tealaya:history,art_and_architecture::
+1359:Yatri Nepal Adventures:history,art_and_architecture::
+1360:Lovely Nepal Tours & Travels:nature,adventure::
+1361:Photo Travel:nature,adventure::
+1362:Asia Vision Treks & Tours, Nepal:history::
+1363:Trek Venture Nepal PvtLtd:nature,adventure::
+1364:Himalayan Flights:history,art_and_architecture,entertainment::
+1365:Hi On Life Adventures Pvt Ltd:history::
+1366:Ganga Jamuna Adventure Treks & Expedition:history,art_and_architecture,entertainment::
+1367:Adventure Mountain Guide Team:nature,adventure::
+1368:Temples and Mountain Tours:history::
+1369:AAA Transport:::
+1370:Leisure Time Nepal Travels & Tours:history,art_and_architecture,entertainment::
+1371:Tranquility Spa - Lazimpat:health_and_lifestyle::
+1372:Himalayan River Operator Nepal - Private Day Tours:nature::
+1373:Himalayan Local Guide:adventure::
+1374:Rousing Adventure:history,art_and_architecture::
+1375:Ramdung Trek and Expedition - Private Day Tours:adventure::
+1376:Himalayan Yatri Trekking:history::
+1377:Nature House Treks & Expedition - Day Tour to Shivapuri:nature,adventure::
+1378:Himalayan Cooking School:industries::
+1379:Mount Summit Treks:history::
+1380:Sherpa Himalaya Treks & Expedition Pvt Ltd:history::
+1381:Himalayan Aster Treks:history::
+1382:Active Everest Trek & Expeditions:history::
+1383:Yuai Clinic:health_and_lifestyle::
+1384:Clear Line Travel and Tours:art_and_architecture,religious::
+1385:Manaslu Expert:nature,adventure::
+1386:Happy Feet Travel:nature,adventure,entertainment::
+1387:Cartipur:history::
+1388:ROBINSON CRUSOE HOLIDAYS:adventure::
+1389:Himalayan Glory Travels and Tours - Day Tours Kathmandu:history,art_and_architecture,entertainment::
+1390:Trekking Explore Nepal:history,art_and_architecture,entertainment::
+1391:Scenic Mountain Travels & Tours:nature,adventure::
+1392:Om Shanti Spa:history,art_and_architecture::
+1393:Legend's Khukuri Gallery:history,art_and_architecture::
+1394:Ayatana Spa:health_and_lifestyle::
+1395:Alpine Exodus:nature,adventure,entertainment::
+1396:A One Treks:history::
+1397:Holiday Tours Nepal:history::
+1398:IN -OUTDOOR Trekking:adventure,entertainment::
+1399:Windhorse Stables:adventure,entertainment::
+1400:Nepal Himalayas Trekking:history::
+1401:Nepal Authentic Treks & Expeditions:history::
+1402:Nepal Rudraksha (Himalaya Rudraksha Bhandar):history,art_and_architecture::
+1403:Touching The Void Trekking Nepal:history,art_and_architecture,entertainment::
+1404:Car Hub Nepal:::
+1405:Off Road Nepal PvtLtd:adventure::
+1406:Nepal Handloom Silk industry:history,art_and_architecture::
+1407:Himalaya Treks Nepal:nature,adventure::
+1408:Global Axis Travels:art_and_architecture,nature,adventure::
+1409:Chandika Homestay:::
+1410:Sonu Tours and Travels pvt ltd:history::
+1411:HourGlass:history,art_and_architecture::
+1412:Farouttrek:history::
+1413:Rupakot Holidays:history,art_and_architecture,entertainment::
+1414:Boundless Adventure PLtd:history::
+1415:Simrik Air:nature,adventure::
+1416:Climbing Himalaya:nature,adventure,entertainment::
+1417:Best Treks Nepal PLtd:history::
+1418:Cinema Under The Moon:art_and_architecture,entertainment::
+1419:Native Everest Treks Pvt Ltd:history::
+1420:Mission Nepal Holiday - Day Tour:art_and_architecture,nature,adventure::
+1421:Anil Manandhar:adventure::
+1422:Lead Nepal Treks Pvt  Ltd:adventure::
+1423:PersijsNET:nature,adventure,entertainment::
+1424:Trek Through Nepal:adventure::
+1425:Moonline Tours:history::
+1426:Manaslu Base Camp Trek:history::
+1427:Adventure Mila Travels & Trekking:history,art_and_architecture,entertainment::
+1428:Indreni Nepal Trekking:adventure::
+1429:Life & Journey Tour & Adventure Pvt Ltd:adventure::
+1430:Langtang Treks Nepal:history::
+1431:Gratitude Travels:adventure,entertainment::
+1432:Nepal International Treks:nature,adventure::
+1433:Pure Nepal Home Made Spices & Tea Center:entertainment,food::
+1434:Transport in Nepal:::
+1435:Yakky Tours:history::
+1436:Eco Foot Spa:history::
+1437:Helicopter Tours Nepal:adventure::
+1438:Himalayan Range International Treks & Expedition:history::
+1439:Malka Travel and Tours:history::
+1440:Apsara Treks:history::
+1441:Wild Stone Adventure:entertainment::
+1442:Rossfit Optimising Performance:history::
+1443:Glance Himalaya Tours:history,art_and_architecture,entertainment::
+1444:iexperiencelocal:history::
+1445:Solukhumbu Treks and Expedition:adventure,entertainment::
+1446:Holiday Mountain Treks & Expedition:art_and_architecture,nature,adventure::
+1447:Himganga Treks and Expedition:history::
+1448:Everest Base Camp Helicopter Tour:nature,adventure::
+1449:Simrik Real Nepal Treks & Expeditions:art_and_architecture,religious::
+1450:Tibet Tours Nepal:history,art_and_architecture,entertainment::
+1451:Wanderlust Himalaya Adventures:history::
+1452:VinyasaNepal:health_and_lifestyle::
+1453:Kathmandu Day Tours:art_and_architecture,nature,adventure::
+1454:Majestic Travel and Tours:nature,adventure,entertainment::
+1455:Precious Adventures:history,art_and_architecture,entertainment::
+1456:Escape Nepal Holidays:history::
+1457:Astha Adventure Treks & Expedition:history::
+1458:Absolute Himalaya Treks & Expedition Pvt Ltd:adventure::
+1459:Leisure Aim Travels & Tours:history,art_and_architecture,entertainment::
+1460:GoNepal:history::
+1461:Nepal viaje:adventure::
+1462:Himalayan Waves Trekking:history::
+1463:The Tour Trek Travel Nepal:adventure,entertainment::
+1464:Everest Adventures Team:nature,adventure::
+1465:Mountain Spirit Adventure:history::
+1466:Jomsom Trekking:history::
+1467:Magical Trekkers:history::
+1468:The Classic Outdoors:history::
+1469:Gold Mountain Nepal Treks & Expeditions:history::
+1470:Seven Summit Treks:history::
+1471:Tea House Trek:history::
+1472:Nepal Guide Service:history::
+1473:Nepal Trekking Trails:art_and_architecture,religious::
+1474:Nepal Alsace Treks & Expedition:history,art_and_architecture,entertainment::
+1475:Tour HQ:history,art_and_architecture,entertainment::
+1476:Sansui Treks & Expedition:nature,adventure::
+1477:Himalaya Orthodox Organic Tea Nepal:history,art_and_architecture::
+1478:Nepal Trekking in Himalayas Pvt Ltd:history::
+1479:Peregrine Treks and Expeditions:nature,adventure::
+1480:New Era Holidays Treks and Expedition:history,art_and_architecture,entertainment::
+1481:Happy Hari Trek & Expeditions:history::
+1482:Monalisa Exclusive Textiles:::
+1483:Oriental Holidays:history,art_and_architecture,entertainment::
+1484:Himalaya Hikes Pvt Ltd:adventure::
+1485:Apex Nepal Adventure Pvt Ltd Day Tours:art_and_architecture,nature,adventure::
+1486:Community Action Treks:art_and_architecture,religious::
+1487:Sealinks Holidays PvtLtd:history::
+1488:Spiritual Excursion:art_and_architecture,religious::
+1489:Ethic Himalaya Treks & Expedition:history,art_and_architecture,entertainment::
+1490:Nepal Holiday:adventure::
+1491:Lhasa Gift House:history,art_and_architecture::
+1492:Alpine Excursion Treks and Expedition:history,art_and_architecture,entertainment::
+1493:Tour in Kathmandu - Day Tours:art_and_architecture,nature,adventure::
+1494:Serenity Tours and Treks:history,art_and_architecture,entertainment::
+1495:Visit Nepal 2020:history::
+1496:Gothic Rave:entertainment::
+1497:Nepal Kumari:history,art_and_architecture::
+1498:Sunrise Export:history,art_and_architecture::
+1499:Ananda Wellness Center:health_and_lifestyle::
+1500:Chito Ramro Laundry:nature,adventure::
+1501:Trekking Top Nepal:adventure::
+1502:Bochi-Bochi Treks PvtLtd:entertainment,food::
+1503:Back Streets of Kathmandu:art_and_architecture,nature,adventure::
+1504:Gorkha Treks:history::
+1505:Malla Treks:nature,adventure::
+1506:Aventura Trek Nepal:history::
+1507:Skybuzz Travels and Tour Nepal:history::
+1508:Tours & Treks Mountain Nepal - Day Tours:history,art_and_architecture,entertainment::
+1509:Shilpee Theatre Nepal:art_and_architecture,entertainment::
+1510:Apoorva Tours & Travels:history,art_and_architecture,entertainment::
+1511:Gems Paradise:history,art_and_architecture::
+1512:MD Adventure Travel & Tours Pvt Ltd:nature,adventure,entertainment::
+1513:Snow Bank Adventure:history::
+1514:Curio Concern:history,art_and_architecture::
+1515:Offroad Nepal:adventure::
+1516:Core Adventure Kathmandu Private Day tour:nature::
+1517:Outlandish Adventure Nepal - Day Adventures:entertainment::
+1518:Sparadise Spa & Salon:health_and_lifestyle::
+1519:Adventure Outdoor Excursion:history,art_and_architecture,entertainment::
+1520:Rudraksha Nepal:history,art_and_architecture::
+1521:Everest Helicopter  Tour Nepal:history::
+1522:NATURE TREASURY TREKS & TOURS:history::
+1523:Pumori Journeys:adventure::
+1524:Visit Pashupati:history,art_and_architecture,entertainment::
+1525:Shakti Punj:health_and_lifestyle::
+1526:Vivaan Adventure Pvt Ltd:history::
+1527:Himalayanrandonner:history::
+1528:Nepal Tourism Package:history,art_and_architecture,entertainment::
+1529:Ghale Treks - Private Day Tours:history::
+1530:Travel Design:history,art_and_architecture,entertainment::
+1531:Arun Treks & Expedition:nature,adventure::
+1532:Khasyor International:history,art_and_architecture::
+1533:Travel to Himalayas:history::
+1534:Sagarmatha Tea House:history,art_and_architecture::
+1535:Aim Nepal Adeventure:adventure::
+1536:Nepal Travel Door - Day Tours:history,art_and_architecture,entertainment::
+1537:Volant Travel:history::
+1538:Rental Car In Nepal:::
+1539:Hike and Bike Nepal:history::
+1540:Reggae Bar Thamel:entertainment::
+1541:Trekkers Paradise in Nepal:history::
+1542:Last Frontiers Trekking:history::
+1543:Trekking for Nepal:history,art_and_architecture,entertainment::
+1544:Nepal Vehicle Services Pvt Ltd:::
+1545:Churen Himal Treks & Expedition:nature,adventure::
+1546:Chetana Yoga and Natural Spa Treatment:adventure,entertainment::
+1547:Lagom:history,art_and_architecture::
+1548:Gurkha Encounters:history::
+1549:Yakky Tours Private Limited:history::
+1550:Ultra Nepal Travel & Treks:adventure::
+1551:Visit View Nepal Treks and Expedition:history::
+1552:Tara Oriental:history,art_and_architecture::
+1553:stepupadventure:adventure::
+1554:Luxury DMC Travel:adventure::
+1555:Himalayan Concord:history::
+1556:Lapha Holidays:history::
+1557:Lead Nepal Treks:history::
+1558:Simple Nepal Adventure Travel Pvt Ltd:history::
+1559:Exquisite Himalaya Pvt Ltd:nature,adventure::
+1560:Divine International Explore and Treks:adventure::
+1561:ekadesma:history,art_and_architecture::
+1562:The Xutti Pvt Ltd:history,art_and_architecture,entertainment::
+1563:Green Paw Adventures Nepal:history::
+1564:Dambar International:art_and_architecture,religious::
+1565:Koili Tours:adventure::
+1566:Himalayan Inn Treks and Expedition Pvt Ltd:history::
+1567:Craft Cave Centre:history,art_and_architecture::
+1568:Alpwander_Adventures:history::
+1569:Himalayan Footsteps Travel and Tour PvtLtd:adventure::
+1570:Everest Pashmina Store:history,art_and_architecture::
+1571:Susan Manandhar:history::
+1572:Mountain Buddha Holidays:adventure::
+1573:Nepal Car Rent:::
+1574:Hamro Hastakala:history,art_and_architecture::
+1575:Shikhar Adventure:history::
+1576:Zen Adventure Holidays:art_and_architecture,religious::
+1577:Shangri La Journeys:history::
+1578:Himalayan Yoga Academy:health_and_lifestyle::
+1579:More Than Mountain Treks:adventure::
+1580:Gorkha Treks:adventure::
+1581:Barefoot Adventures:history::
+1582:Mayur Adventures:history,art_and_architecture,entertainment::
+1583:Freelancer trekking:adventure::
+1584:Adler Adventure Trekking:history::
+1585:Nepal Travels Expedition Pvt Ltd:adventure::
+1586:Everest Holiday Adventure:nature,adventure::
+1587:Pashmina In Nepal:history,art_and_architecture::
+1588:SAN TREKKING PVTLTD:adventure::
+1589:Bhimsen Travels:history::
+1590:Trips Himalaya:history,art_and_architecture,entertainment::
+1591:Sherpa World Adventure:adventure::
+1592:Arma Trek&Tours:history::
+1593:Waiba Adventure:history::
+1594:Voyage De Himalayas:adventure,health_and_lifestyle::
+1595:Nature Treks Himalayas:history::
+1596:Suman Khatiwada:adventure::
+1597:New Boudha Handicraft:history,art_and_architecture::
+1598:Bergwandern Nepal:history,art_and_architecture,entertainment::
+1599:Cotton Mill Nepal:history,art_and_architecture::
+1600:Karma Trek & Adventure Nepal PvtLtd:adventure::
+1601:Hikes Nepal:adventure::
+1602:Incredible Mountains:art_and_architecture,nature,adventure::
+1603:HimEX Nepal Pvt Ltd:history::
+1604:Aryatara Holidays:history,art_and_architecture,entertainment::
+1605:Nepaltrekstourcom:history::
+1606:Holidays Destination Trekking & Expedition:adventure::
+1607:Elite Himalayan Adventure:nature,adventure::
+1608:Together Nepal Tours:history,art_and_architecture,entertainment::
+1609:Yeti Mountain Home:history::
+1610:Majestic Himalaya Treks & Expeditions:history::
+1611:Himalaya Fair Reisen:history::
+1612:Himalayan Worldwide Treks & Expedition:nature,adventure,entertainment::
+1613:Nepal Rafting Center:nature,adventure,entertainment::
+1614:Gantu Trip Planner:history::
+1615:Himalayan Unforgettable Adventure:history::
+1616:Multiland Tours and Treks:history::
+1617:Sunniva Travels and Tours:history::
+1618:Himalayan Quest Travel & Tourism - Day Tours:nature::
+1619:Everest Expeditions Nepal:history,art_and_architecture,entertainment::
+1620:Nepal Malaysia - Private Mountain Flight Tours:nature::
+1621:Unique Leather Collection:history,art_and_architecture::
+1622:Nine Nepal:::
+1623:Coretreks:art_and_architecture,religious::
+1624:Multi Land Private Day Tours:history,art_and_architecture,entertainment::
+1625:Hello Travels:adventure::
+1626:Hello Travels:history::
+1627:Nepal Experienced Adventure Treks:art_and_architecture,religious::
+1628:Nepal Explorer:history::
+1629:Alternate Nepal Treks & Expeditions:history::
+1630:Destination Holidays:art_and_architecture,religious::
+1631:Himalaya Range Adventures:history::
+1632:Sahara Holidays Nepal Treks & Expedition:history,art_and_architecture,entertainment::
+1633:Green Hearts:health_and_lifestyle::
+1634:Drichu:history,art_and_architecture::
+1635:Thrill Nepal Adventure trek and expedition Pvt Ltd:history::
+1636:FCube Cinemas:art_and_architecture,entertainment::
+1637:Folk Nepal:history,art_and_architecture::
+1638:Heli Sight:nature,adventure::
+1639:Lasermaxx Kathmandu:entertainment::
+1640:Adventure Jaljale Trekking & Expedition:history::
+1641:Guide in Nepal:adventure::
+1642:Mission Mountain - Private Day Tours:nature,adventure::
+1643:Intrepid Nepal:history::
+1644:Beatific Slimming and Spa:health_and_lifestyle::
+1645:Summit Reisen Nepal:history::
+1646:Himalayan Sherpa Journey:history::
+1647:De Souvenir's:history,art_and_architecture::
+1648:Sansui Treks & Expeditions:history::
+1649:Shree Ganapati Jewellers:history,art_and_architecture::
+1650:Mountain Brothers Treks:art_and_architecture,nature,adventure::
+1651:Khumbu Shangrila:adventure::
+1652:Himalayan TrekNclimb:nature,adventure::
+1653:Absolute Adventure Treks Pvt Ltd:adventure::
+1654:Withlocals:history,art_and_architecture,entertainment::
+1655:Moodways Travel and Tours:history::
+1656:Namlotrek:adventure::
+1657:Himalayan Bike Travel and Adventure:history::
+1658:Haven Retreat Spa & Salon:health_and_lifestyle::
+1659:Wilderness Experience Pvt Ltd:history::
+1660:Himalayan Top Trekking:history::
+1661:Nepal Trekking Tourism And Adventure:art_and_architecture,religious::
+1662:QFX Civil Mall:art_and_architecture,entertainment::
+1663:Twin Peaks Trek and Travel:history::
+1664:Zambala Thanka Treasure:history,art_and_architecture::
+1665:Tea House Trek:history::
+1666:Himalaya Guide Chandra Gurung:art_and_architecture,nature,adventure::
+1667:Mata Laxmi Handicraft and Singing Bowl House:history,art_and_architecture::
+1668:Pathfinder Expeditions Private Day Tours:nature::
+1669:Crank House:adventure,entertainment::
+1670:Spring Rain Adventure:history,art_and_architecture,entertainment::
+1671:The Trekking Brothers:adventure::
+1672:Well Nepal Treks:adventure::
+1673:Dragon Tourist Market Nepal Pvt Ltd:entertainment::
+1674:Karma Eco Adventure:history,art_and_architecture,entertainment::
+1675:Nepali Food Cooking:food::
+1676:Waypoint adventures pvt limited - Day Trips:entertainment::
+1677:Yellow Swissa Treks & Raging River Runner:nature,adventure,entertainment::
+1678:Mayour Tailors:history,art_and_architecture::
+1679:Jugal Himalayan Adventures:adventure::
+1680:My Asia Adventures:history::
+1681:Altitude Randonnee Trekking:history::
+1682:Mountain Trotters Treks & Expedition Pvt Ltd:adventure::
+1683:Bisesh Treks and Adventure:adventure::
+1684:Kuniko Travel - Day Tours:art_and_architecture,nature,adventure::
+1685:Nep Travels & Expedition:history,art_and_architecture,entertainment::
+1686:Raaika Tours & Treks:history,art_and_architecture,entertainment::
+1687:Whitewater Madness:nature,adventure,entertainment::
+1688:POON HILL TREK:adventure::
+1689:Ex Gurkha Khukuri House:history,art_and_architecture::
+1690:Gautam Holidays:art_and_architecture,religious::
+1691:Shishu Tours & Travel:history::
+1692:Sharma Tours & Travels Pvt  - Private Day Tours:nature::
+1693:FCI Heli Charter Services:::
+1694:Frens Himalayan Travels & Treks:history,art_and_architecture,entertainment::
+1695:Great Nepal Treks and Expeditions:art_and_architecture,religious::
+1696:Info Trekking Nepal:history,art_and_architecture,entertainment::
+1697:Harsha's Shiatsu:health_and_lifestyle::
+1698:Rainbow Mountain Treks Pvt Ltd - Day Tours:nature,adventure,entertainment::
+1699:Incentive Holidays:history,art_and_architecture,entertainment::
+1700:Battlefield- The Ultimate Paintball Game:entertainment::
+1701:Tengboche Trekking:history::
+1702:Explore Kailash Treks Pvt Ltd:history::
+1703:Skylark Treks and Expedition:art_and_architecture,religious::
+1704:Red Carpet - Day Tours:art_and_architecture,religious::
+1705:Nepal Aventure:history,art_and_architecture,entertainment::
+1706:Adventure Alternative Nepal:history,art_and_architecture,entertainment::
+1707:Harmony Spa:health_and_lifestyle::
+1708:Car Hire Nepal:::
+1709:Trekking Experts:art_and_architecture,religious::
+1710:Clothing Nepal Enterprises:history,art_and_architecture::
+1711:Sacred Mount Kailash Pilgrimage:nature::
+1712:Ian Taylor Trekking:adventure::
+1713:Alpine Adventure Club Treks & Expedition - Mountain Flight in Nepal:adventure::
+1714:Alpine Mountain Trek Advisor:history::
+1715:Everest Alpine Trekking:nature,adventure::
+1716:The Thunderides:history::
+1717:Goodwill Spa & Beauty Parlour:health_and_lifestyle::
+1718:Endless Wave Adventure:nature,adventure,entertainment::
+1719:360 Gaming Zone:entertainment::
+1720:Live Adventure Expeditions:nature,adventure,entertainment::
+1721:Boundless Adventure:nature,adventure::
+1722:Mountain Goat Trekking PvtLtd:history::
+1723:World Favour Travel & Tours:nature,adventure::
+1724:Tour and Trek Nepal:adventure::
+1725:Travel Bird Nepal:history::
+1726:Nepal New Generation Trek and Adventure:entertainment::
+1727:Gandaki Tours and Travels:history::
+1728:Virgin Nepal Trek and Expedition PvtLtd:nature,adventure,entertainment::
+1729:Eagle Eye Treks:adventure::
+1730:Tij York Trek & Expedition P Ltd - Day Tours:adventure::
+1731:Top Adventure:history::
+1732:Asaki Treks & Expedition:history::
+1733:Senate Club:entertainment::
+1734:Adventure Mountain Nepal Trekking and Climbing PLtd:history::
+1735:Best Nepal Trek:history,art_and_architecture,entertainment::
+1736:Berg Reisen Nepal P Ltd:history,art_and_architecture,entertainment::
+1737:Paintball Nepal:entertainment::
+1738:Cine de Chef:art_and_architecture,entertainment::
+1739:Himalayan Eco Adventure Pvt Ltd:history,art_and_architecture,entertainment::
+1740:United River Adventure:entertainment::
+1741:Himalaya Asuka Treks & Expedition P Ltd:nature,adventure,entertainment::
+1742:Himalayan Unforgettable Adventure:history::
+1743:Everest Base Camp Heli Tour with Travel Beyond:nature,adventure::
+1744:Enjoy Nepal Treks:history::
+1745:Himalaya Heaven Tours & Treks:history,art_and_architecture,entertainment::
+1746:Greenline Tours:::
+1747:Clear Sky Treks & Expedition:art_and_architecture,religious::
+1748:Muktinath Temple Tour:history::
+1749:Bajrayogini Pashmina:history,art_and_architecture::
+1750:Travel In Nepal Treks Pvt Ltd:history::
+1751:Abbey International Treks & Expedition:art_and_architecture,religious::
+1752:Explore Manaslu:history::
+1753:Namaste Nepal Travels and Tours:art_and_architecture,religious::
+1754:Success Travels & Treks:history::
+1755:Bunk Tribe:history::
+1756:Everest Himalaya Treks:nature,adventure::
+1757:Adventure Dream Himalaya Treks:nature,adventure::
+1758:Talixo - Kathmandu:::
+1759:Himalayan Summit Treks And Expedition:history::
+1760:World Favour Travel & Tours:nature,adventure::
+1761:Harmony Spa:health_and_lifestyle::
+1762:Thrillhimalayacom:history::
+1763:Cashmere heaven:nature,adventure::
+1764:Vaishali Travels & Tours:::
+1765:Mountain Safari - Day Tours:nature,adventure::
+1766:Sixth Sense Travel & Trekking:nature,adventure::
+1767:Airlife Adventures:nature,adventure::
+1768:Peaceful Nepal:history::
+1769:Muktinath Yatra:history,art_and_architecture,entertainment::
+1770:EVEREST HELI CHARTER:nature,adventure::
+1771:Wildpath Adventure - Kathmandu Day Tour:art_and_architecture,nature,adventure::
+1772:Trek Nepal:history::
+1773:imaginenepalteam:nature,adventure::
+1774:Save Himalayan Travel & Tours Pvt Ltd:adventure::
+1775:Everest Tour Nepal:history,art_and_architecture,entertainment::
+1776:Himalayan Steps:history::
+1777:Nepal Trekking & Expedition:adventure::
+1778:Shivam Group Holiday:history::
+1779:Sun Nepal treks:history::
+1780:Himalayan Sherpa Holidays:history::
+1781:Sherpa Khangri Outdoors:history::
+1782:Trek of Nepal:history,art_and_architecture,entertainment::
+1783:BusSewa:::
+1784:Sahas Travels & Tours:history,art_and_architecture,entertainment::
+1785:Across The Himalayas Treks:adventure::
+1786:Kharpunath Travels and Tours:history,art_and_architecture,entertainment::
+1787:Mahalaxmi Vehicle Service:adventure::
+1788:Star Adventure Asia Treks:history,art_and_architecture,entertainment::
+1789:Nepal Travel Team:nature,adventure::
+1790:Sapana Holiday Tours and Travel:history::
+1791:Bold Himalaya Treks and Travels Pvt Ltd:history::
+1792:ABC Adventures Pvt Ltd:history::
+1793:Everest Hardwear:nature::
+1794:Nepal Trekking Trails (P) Ltd:adventure::
+1795:VX Tours:history::
+1796:eNepaltour:history,art_and_architecture,entertainment::
+1797:Ticino Treks and Expedition:::
+1798:SevenOn Tours - Day Tours:history,art_and_architecture,entertainment::
+1799:Himalayan Little Buddha Treks And Expedition:nature,adventure::
+1800:Lama Treks & Expedition - Day Tours:nature,adventure::
+1801:Shree CC Handicraft:history,art_and_architecture::
+1802:Himalayan Luxury Holidays:history::
+1803:Pashmina In Nepal:history,art_and_architecture::
+1804:Worldly People:history::
+1805:Great Escape Tours and Travels:art_and_architecture,nature,adventure::
+1806:Nepal Adventure Trek & Expedition (P) Ltd:history::
+1807:Serku Sherpa:adventure::
+1808:SHERPA GUIDE SERVICES:history,art_and_architecture,entertainment::
+1809:Glorious Wellness Spa:health_and_lifestyle::
+1810:Mystique Voyages Pvt Ltd:history::
+1811:Nepal New Generation Treks and Adventure:history::
+1812:Wildlife Safari Bardia:adventure::
+1813:Paramount Holiday:history::
+1814:Deepak Aryal:adventure,health_and_lifestyle::
+1815:Off Road Nepal:history::
+1816:NTB Adventures:history,art_and_architecture,entertainment::
+1817:S Nepal Tours & Travels:adventure::
+1818:Best Trekking in Nepal:art_and_architecture,religious::
+1819:Nepal Mountain Biking:history::
+1820:Beyond Himalaya - Day Tours:art_and_architecture,nature,adventure::
+1821:Khumbu Nangpala Trekking and Expedition:history,art_and_architecture,entertainment::
+1822:Woodcarving Studio:history,art_and_architecture::
+1823:Isha Center:industries::
+1824:Adventures Himalaya:entertainment::
+1825:The Target Arena:entertainment::
+1826:Undercover Kathmandu & Swayambhunath Day Tour:art_and_architecture,nature,adventure::
+1827:Nepal Himalaya Trek - Private Changunarayan Day Hiking:adventure::
+1828:El Yak:entertainment::
+1829:Tiger Trek - Day Tours:adventure::
+1830:Mandala Pashmina & Handicrafts:history,art_and_architecture::
+1831:Trip and Trek - Private Day Tours:adventure::
+1832:National Woodworking Museum:history,art_and_architecture::
+1833:Nepal Visitors Private Day Tours:::
+1834:Kathmandu Pashmina Collection Center:history,art_and_architecture::
+1835:Aura Reiki Yoga Nepal:health_and_lifestyle::
+1836:Ultra modern handicrafts:history,art_and_architecture::
+1837:Triten Norbutse Monastery:history,art_and_architecture,religious::
+1838:Adventure Milestone - Day Hike To Namo Buddha:adventure::
+1839:Age Holidays Day Tours:art_and_architecture,nature,adventure::
+1840:Cross Country Tresks and Travel Expedition Pvt Ltd:art_and_architecture,nature,adventure::
+1841:About Nepal Treks:adventure::
+1842:Happy Women Handicraft:history,art_and_architecture::
+1843:Easy Heli Charter Service:nature,adventure::
+1844:Nepal Mandala Travels - Day Tours:art_and_architecture,religious::
+1845:Take Me Trekking Ltd:adventure::
+1846:Buddha Nepal Treks - Nagarkot Day Tours:adventure::
+1847:Sunrise Transport and Tours Service:nature::
+1848:Beyond Himalaya:history,art_and_architecture,entertainment::
+1849:White Stone Holiday Nepal:art_and_architecture,religious::
+1850:Infinite Tours and Travels:::
+1851:Zeabrose Leather Boutique:history,art_and_architecture::
+1852:Purna Work Shop:history,art_and_architecture,religious::
+1853:Marker Stone - Day Tours:art_and_architecture,nature,adventure::
+1854:Encounter Karma Treks:history,art_and_architecture,entertainment::
+1855:Absolute Himalaya Treks:nature,adventure::
+1856:12d Cinema:art_and_architecture,entertainment::
+1857:Trip to Everest:history::
+1858:Sound Planetarium:history,art_and_architecture::
+1859:Land Rovers Overland:adventure::
+1860:Lost Paddle Adventure:nature,adventure,entertainment::
+1861:Nagarkot Hiking:nature,adventure::
+1862:Chakrapani Ayurveda Nepal:health_and_lifestyle::
+1863:Virtue Travels & Tours Pvt Ltd:history,art_and_architecture,entertainment::
+1864:Kathmandu Private Day Tour Package:history,art_and_architecture,entertainment::
+1865:Shin Travels and Tours - Day Tours:history,art_and_architecture,entertainment::
+1866:Car Mandu:::
+1867:Alpine Exodus:art_and_architecture,religious::
+1868:Trek Holiday Nepal:nature,adventure::
+1869:Nepal Vehicle Hire:::
+1870:Freedom Nepal Treks and Expedition:history::
+1871:Veggie Nepal:history::
+1872:Himalayan Independent Guides:history::
+1873:Karma Eco Adventure:history::
+1874:Beatific Slimming and Spa:health_and_lifestyle::
+1875:Friendship Trekking:history,art_and_architecture,entertainment::
+1876:Nepal GoGo Treks:history::
+1877:Muktinath Yatra:art_and_architecture,religious::
+1878:The Matrix Adventure:art_and_architecture,religious::
+1879:Travel-In Travel-Out:history::
+1880:Rainbow Thanka Gallery:history,art_and_architecture::
+1881:Buddha Eye Treks:history::
+1882:Nepal Trek Ways Pvt Ltd:history,art_and_architecture,entertainment::
+1883:Snowbird Treks & Adventure Pvt Ltd:history::
+1884:Go! Running Tours Kathmandu:history,art_and_architecture,entertainment::
+1885:Apex Asia Travel & Trekking:nature::
+1886:YogHimalaya:health_and_lifestyle::
+1887:Travel Beyond Pvt Ltd:history::
+1888:Travel Her Way:nature,adventure::
+1889:Picturesque:history,art_and_architecture,entertainment::
+1890:Signature Holidays:history::
+1891:Xtreme Climbers:history::
+1892:E Travel Nepal:history,art_and_architecture,entertainment::
+1893:Adventure Mountain Club:history::
+1894:Sherpa Altitude Adventure Treks and Expedition:history::
+1895:Amantran Spa & Salon:health_and_lifestyle::
+1896:Baba Tour And Travel:history,art_and_architecture,entertainment::
+1897:Sherpa Land Adventure:history::
+1898:Heavenly Himalaya Treks & Tours:history::
+1899:Secrets of the Himalaya:adventure::
+1900:Castello Cashmere:history,art_and_architecture::
+1901:Tourist Adventure International:history::
+1902:QFX Kumari:art_and_architecture,entertainment::
+1903:Red Carpet:history::
+1904:Api Himal Treks & Expedition:history,art_and_architecture,entertainment::
+1905:Travel Nepal:history::
+1906:Auronepal Travel and Trek:history::
+1907:Adventure Advisor Nepal:history::
+1908:Journey 2 himalaya Treks:history::
+1909:Joyful Trekking:adventure::
+1910:Arnav Travel:::
+1911:Alpine Pashmina House:history,art_and_architecture::
+1912:Trekker Nepal:history::
+1913:Ecovoyage Travel and Tours:adventure::
+1914:Adventure Ascent:nature,adventure::
+1915:Shanti Yoga Ashram:health_and_lifestyle::
+1916:Mam Holidays:history::
+1917:Trek Dream Nepal:adventure::
+1918:Sherpa Himalaya:history::
+1919:Sherpa Mountains and Adventure:adventure::
+1920:Black Stork Trek and Expedition:history::
+1921:Temple Bar - Irish Pub:entertainment::
+1922:Sherpa Shepherds:history::
+1923:Ocean To Sky Adventures:adventure::
+1924:Experience Earth:history::
+1925:Sherpa Khumbiyila Adventures:history::
+1926:Namaste Roving Tours And Travels:history::
+1927:FunExpedia:nature,adventure::
+1928:Adventure Polygon:history::
+1929:Hike Nepal:art_and_architecture,religious::
+1930:Nepal Academy Treks and Expedition:history::
+1931:Nepal Seasonal Adventure Treks:history,art_and_architecture,entertainment::
+1932:Dream Carrier Treks and Expedition:nature,adventure::
+1933:Nepal Snowfall Mountains Treks and Expeditions:history::
+1934:Typical Himalayan Treks & Expedition:history,art_and_architecture,entertainment::
+1935:Ocean to Sky Adventures:adventure::
+1936:Adventure Mountain Nest:history::
+1937:Taiao Nepal Eco Treks:history::
+1938:Jyotirlingeshwor:history,art_and_architecture,religious::
+1939:Heaven Hikers Adventure:history::
+1940:Shahid Gate:history,art_and_architecture,nature::
+1941:Himalaya Safty Treks & Expedition:history::
+1942:"ARTUDIO ""Centre for Visual Arts""":history,art_and_architecture,religious::
+1943:Standard Chartered Vehicle Service Pvt  Ltd:::
+1944:Happyharitrek & Expeditions:nature,adventure::
+1945:Ganga Jamuna Adventure Treks & Expedition:art_and_architecture,religious::
+1946:Express Himalaya Travel:adventure::
+1947:Body & Mind - A Healing Spa:health_and_lifestyle::
+1948:Climbing Expedition:history::
+1949:Rose Mountain Tours and Travels:history::
+1950:Himalayan Pilgrimage Journey:art_and_architecture,nature,adventure::
+1951:Fresh Liquorland:history,art_and_architecture::
+1952:Chulu Far East Peak:history::
+1953:Yogadham:health_and_lifestyle::
+1954:Himalayan Treks:history::
+1955:Mystical Nepal Treks:adventure::
+1956:Simsime Travels & Tours:history::
+1957:Lalman Trek and Expedition:history::
+1958:Meraki Adventure:history::
+1959:Book Paradise:history,art_and_architecture::
+1960:FCube Cinemas:art_and_architecture,entertainment::
+1961:Trip Himalaya Treks & Expedition (P) LTD:history::
+1962:Travel Devisers:history,art_and_architecture,entertainment::
+1963:Destination Everest:history,art_and_architecture,entertainment::
+1964:Krishna International Travels and Tours:history::
+1965:Ganesh Himal Trekkings & Tours PL:art_and_architecture,religious::
+1966:Four Himalayan Magic:history::
+1967:Tourism Society:history::
+1968:Top Tour Nepal:history,art_and_architecture,entertainment::
+1969:Travelling Fantasy:history::
+1970:Blue Bird Travel and Tours:history,art_and_architecture,entertainment::
+1971:Sherpa Guides Service:nature,adventure::
+1972:Great Himalayan Riders:history::
+1973:Me Travel and Tours:history,art_and_architecture,entertainment::
+1974:Tashi Delek Nepal Treks:nature,adventure::
+1975:Roaming Nepal:history,art_and_architecture,entertainment::
+1976:Nepal Trekking Guide:history::
+1977:Trekadviser:history,art_and_architecture,entertainment::
+1978:Punya Tours & Travels:adventure::
+1979:Aarohi Holiday:history,art_and_architecture,entertainment::
+1980:Himalayan Randonner:history,art_and_architecture,entertainment::
+1981:Joyful Trekking:history::
+1982:Pancha Kosha Himalayan Spa:health_and_lifestyle::
+1983:Car & Tour Nepal:adventure::
+1984:Alpine Ascent Nepal:history::
+1985:Bound Travels & Tours:history,art_and_architecture,entertainment::
+1986:Outdoor Himalayan Treks:history::
+1987:Ktm Voyage Travel and Tours:history::
+1988:Fifth Ave Travel and Tours:history,art_and_architecture,entertainment::
+1989:Giggles:health_and_lifestyle::
+1990:Mountain Child Adventure Travel & Trekking:history::
+1991:Nepal Tour & Trekking Service:history,art_and_architecture,entertainment::
+1992:Lion Heart Tour:history,art_and_architecture,entertainment::
+1993:Tranquility Spa - Kupondole:health_and_lifestyle::
+1994:Tranquility Spa - Hotel Shangri-La:health_and_lifestyle::
+1995:Leisure Holidays Pvt Ltd:art_and_architecture,religious::
+1996:Multinational Trekking & Expedition:adventure,entertainment::
+1997:Blend Cashmere:history,art_and_architecture::
+1998:Adventure Ascent:history,art_and_architecture,entertainment::
+1999:Pavitra Kailash Yatra:history::
+2000:Outdoor Adventure Center Nepal:entertainment::
+2001:Gorkhali Adventures Pvt Ltd:nature::
+2002:Khukuri House:history,art_and_architecture::
+2003:Holiday Treks And Expedition:art_and_architecture,religious::
+2004:NH Travels and Tours:history::
+2005:Holiday Treks & Expeditions:history::
+2006:Pancha Kosha Himalayan Spa:history,art_and_architecture::
+2007:Tranquility Spa:health_and_lifestyle::
+2008:Tranquility Beauty Salon, Lazimpat:health_and_lifestyle::
+2009:Red Carpet Journey:history,art_and_architecture,entertainment::
+2010:Sole Encounters:history::
+2011:Beebal Singh Limbu:history,art_and_architecture,entertainment::
+2012:Nepal View Treks and Expedition:history::
+2013:Sujan Dhakal:history::
+2014:Api Adventure Eco Tour:history::
+2015:Sumire Tours and Travel:history::
+2016:One Nepal Treks and Tours:history,art_and_architecture::
+2017:Nepal Power Places:history::
+2018:Wind Horse Trekking Pvt Ltd:history::
+2019:Chandragiri Hill:history,art_and_architecture,nature::
+2020:Aspiration Adventure:history::
+2021:Himalayan Enfielders:adventure,entertainment::
+2022:Bimal Dhamala:history::
+2023:Good Times:history::
+2024:Jake Basnet:history::
+2025:Hima Nepal Tours & Treks:history::
+2026:Snowy Dream World - Tours & Adventure:history::
+2027:Rudra Khanal:adventure::
+2028:Sujan Ratna Shakya:history,art_and_architecture::
+2029:Sherpa Mountaineering:nature,adventure::
+2030:Happy Karma Travels:history,art_and_architecture,entertainment::
+2031:Happy Karma Travels:nature::
+2032:One Life Adventure Team:nature,adventure::
+2033:Himalaya Asuka Treks & Expedition P Ltd:history::
+2034:Spyders Adventure Pvt Ltd:history::
+2035:Rabi Adhikari:nature,adventure::
+2036:Humanitourismorg:adventure::
+2037:Trek To Edge:history::
+2038:Trooper:nature,adventure::
+2039:Lets Go Hiking Nepal:history::
+2040:Great Gurkha Khukuri:history,art_and_architecture::
+2041:Holiday pLanner:entertainment::
+2042:Great Gurkha Kukri House:history,art_and_architecture::
+2043:Veris Adventure Travels and Tours:history::
+2044:Galz Beauty Parlour:health_and_lifestyle::
+2045:fire dance workshop:history,art_and_architecture::
+2046:Yoga Shala Nepal:adventure,health_and_lifestyle::
+2047:Nepal Traveler Helper:nature,adventure::
+2048:Narbin Magar:history::
+2049:Umbrella Trekking:history::
+2050:Trek Holiday Tour & Trek PvtLtd:history::
+2051:One World Holidays Nepal:history,art_and_architecture,entertainment::
+2052:Unfold Nepal:history::
+2053:Tintin and Sherpa Adventure Trekking:history::
+2054:Samjhana Travels and Tours:history,art_and_architecture,entertainment::
+2055:Golumbini:history,art_and_architecture,entertainment::
+2056:Divine Mountain Tours and Travels:art_and_architecture,nature,adventure::
+2057:Holiday Mountain:history::
+2058:Trek and Tours to Nepal  P Ltd:history::
+2059:Adventure Snow Mountain Pvt Ltd:::
+2060:Go Beyond:history,art_and_architecture,entertainment::
+2061:Privé Nepal:entertainment::
+2062:Mission Himalaya Treks:history::
+2063:Splindid High Adventure:history::
+2064:Himalayan Travellers:nature,adventure::
+2065:Tranquility Spa:health_and_lifestyle::
+2066:Image Travel and Tours:adventure::
+2067:Puja Traders:history,art_and_architecture::
+2068:Peace Land's Travel & Tours:history,art_and_architecture::
+2069:Sparkling Holidays:history::
+2070:High Mountain Wave Trekking:nature,adventure::
+2071:Going Nepal:history::
+2072:Zambuling Expedition:history::
+2073:Kriss Simkhada:history,art_and_architecture,entertainment::
+2074:Sushil Lama:nature,adventure::
+2075:Sanjay Khanal:history::
+2076:Nepal Motorbike Tour:history::
+2077:Rajendra Rajak:art_and_architecture,religious::
+2078:Dipak Bhandari:::
+2079:Abhay Sharma:adventure::
+2080:OpenRoads:::
+2081:Pradip Karki:history::
+2082:Sandeep Rijal:history::
+2083:Thrill Nepal Adventure:history,art_and_architecture::
+2084:Green Horizon Tours & Travels - Thamel:history,art_and_architecture,entertainment::
+2085:Luxury Yogi Holistic Health Center:history,art_and_architecture::
+2086:Sunrise Jewellers:history,art_and_architecture::
+2087:Mahaguthi Craft With Conscience:history,art_and_architecture::
+2088:Namrata Subedi:history,art_and_architecture::
+2089:Spiritual Expeditions PvtLtd:history::
+2090:Aarya Tara:history::
+2091:Gyan Bahadur Rai:history::
+2092:Alpwander_adventures:history::
+2093:Naata Trek and Tours:history::
+2094:Three Sixty Travels:history::
+2095:Signature Tours:nature,adventure::
+2096:Discover Nepal:history::
+2097:Osho Vision Treks and Expedition Pvt Ltd:history::
+2098:Trekkingguide Nepal // Kedar:history::
+2099:susmita luitel:history::
+2100:Gaze Nepal:nature,adventure,entertainment::
+2101:Bigu Life Festival:history::
+2102:All Nepal Excursion:history::
+2103:Nepalese Mountain Dreams and Journeys pvt Ltd:history::
+2104:Travel Corporation Nepal:adventure::
+2105:Sanjit KC Tours and Treks:history::
+2106:TrekandTours:history::
+2107:Everest Treks Nepal:adventure::
+2108:Holiday World Trekking Nepal:adventure::
+2109:Mountain Trotters Treks & Expedition Pvt Ltd:adventure::
+2110:Amrita Yoga Foundation:health_and_lifestyle::
+2111:To Travel Nepal Tours and Travels Pvt Ltd:nature::
+2112:Vajra Adventure:nature,adventure::
+2113:OUTDO-adventures:history::
+2114:Shanta Nepali Productions:art_and_architecture,religious::
+2115:Diana Travels and Tours:nature,adventure,entertainment::
+2116:Nomadic Knights:::
+2117:Trekting Tours & Expedition:history::
+2118:Luisa Sánchez:history::
+2119:Noble Trek:adventure::
+2120:EHT Travel Pvt Ltd:adventure::
+2121:Luxury Travel and Tours Pvt Ltd:history,art_and_architecture,entertainment::
+2122:Himalayan Journey:history::
+2123:Door to Himalaya:history::
+2124:Boudha Retreats:history,art_and_architecture::
+2125:Atithi satkar:history,art_and_architecture,entertainment::
+2126:Swornim Tours & Travel Pvt  Ltd:history::
+2127:Donkeys Adventures Pvt Ltd:adventure::
+2128:Nepal TravelBiz:history::
+2129:EE Treks and Expeditions pvt ltd:history::
+2130:Everest Sherpa Adventure PvtLtd:nature,adventure::
+2131:Chameli Holidays:history::
+2132:Hiking Package:history::
+2133:MKS Handicraft:history,art_and_architecture::
+2134:Khumbu Alpine Travel:nature,adventure::
+2135:One Globe Travels and Tourism Pvt Ltd:history,art_and_architecture,entertainment::
+2136:Zero Degree Travels and Tours:history,art_and_architecture,entertainment::
+2137:Typical Nepal Travel:history,art_and_architecture,entertainment::
+2138:Peace Himalayan Travel and Tours:history::
+2139:Nefa Treks:history::
+2140:Enlightenment Nepal:adventure::
+2141:Aaha Sister Creation:history,art_and_architecture::
+2142:Earthly Quests:history::
+2143:Athena Expedition:history,art_and_architecture,entertainment::
+2144:Inframe Nepal:history::
+2145:Buddha Treks & Expedition:adventure::
+2146:Nepal Thirsty Travels & Tours:history,art_and_architecture,entertainment::
+2147:Trekking Nepal:history::
+2148:The Tour Trek Travel Nepal:history::
+2149:Hima Nepal Tours & Treks:history::
+2150:Carabiner Holidays:history,art_and_architecture,entertainment::
+2151:Social & Commercial Information Page of Nepal– Everything In Nepal:nature,adventure::
+2152:ABC himalayan trekking and tours:history::
+2153:Kailash Helicopter Services:nature,adventure::
+2154:szal maharzan:history::
+2155:W Adventures:nature,adventure::
+2156:Apex Tour And Treks:nature,adventure::
+2157:ktmguide:entertainment::
+2158:Manaslu Adventure Treks:history::
+2159:Shyam Pandey:history,art_and_architecture,entertainment::
+2160:Nepal Trekking Path:adventure::
+2161:August Mountain Travels & Tours:art_and_architecture,religious::
+2162:Nepal Trekking Guide:history::
+2163:Kumar Rupakheti:nature::
+2164:Tour guide:history::
+2165:Daniel Collins:history::
+2166:Skailash:history::
+2167:Trekholic:history::
+2168:Pipal Bot:history,art_and_architecture::
+2169:OneSeed Expeditions - Nepal:history::
+2170:Development Tourism:history::
+2171:Northsky Holidays Travels and Tours PvtLtd:adventure::
+2172:Able Adventure Pvt Ltd:::
+2173:Botanical Treks & Excursion:adventure::
+2174:trioplus technology:adventure::
+2175:Kailash Adventure Kathmandu:::
+2176:SK Pashmina Industries:history,art_and_architecture::
+2177:Eternal Himalaya Adventure Treks:adventure::
+2178:jatra:history::
+2179:Nepal Handicrafts Collections:history,art_and_architecture::
+2180:High Vision Adventure Trek:history::
+2181:Wild Roots and Pineapple Adventure:history::
+2182:Om Prakash Bista:adventure::
+2183:Travel Life Adventures - Nepal:history::
+2184:Stunning Nepal - Trekking Agency in Nepal:adventure::
+2185:Shangrila Knit:history,art_and_architecture::
+2186:KB Adventure Nepal Pvt Ltd:adventure::
+2187:Outdoor Expeditions:history::
+2188:Heaven Nepal:adventure::
+2189:Barada Tours and Travels:history,art_and_architecture,entertainment::
+2190:Trekoteli:history::
+2191:Enlightenment:history,art_and_architecture::
+2192:Yatra Sansar Travel and Trek Pvt Ltd:history::
+2193:Servantrip NPL Airport Transfers:::
+2194:Nature Heaven Treks & Expedition:history::
+2195:Dolphin Tours and Travels P Ltd:nature,adventure::
+2196:Imagine Nepal Team:adventure::
+2197:Himalayan Alpine Adventure Treks & Expedition:history::
+2198:Human welfare committee:history::
+2199:Find Ways Adventure:history::
+2200:Uma Holidays:adventure::
+2201:Himalayan Hawk Adventure Trekking and Expedition:history::
+2202:Quad Bike Nepal:adventure::
+2203:Navigator Nepal:adventure::
+2204:Yetautaa Travels And Tours Pvt Ltd:history::
+2205:Trekting Tours & Expedition PvtLtd:history::
+2206:Himalayan Pursuit:history::
+2207:Transit Nepal Travel and Tours:nature,adventure,entertainment::
+2208:Sherpa Yak Land Treks Pvt Ltd:history::
+2209:Nepal Mandal Travels:history::
+2210:Firante Travels and Tours Pvt Ltd:history::
+2211:Grand Nepal Tours And Travels PvtLtd:adventure::
+2212:Special Trek & Expedition:nature,adventure::
+2213:Exotic Vacations Nepal:nature,adventure::
+2214:Himalayan Paradise Trek & Expedition PLtd:nature,adventure::
+2215:Nepal Singapore Tours:adventure::
+2216:Best Nepal Guide:history,art_and_architecture,entertainment::
+2217:Makalu Holidays:adventure::
+2218:White Snow Adventure Treks & Expedition Pvt Ltd:nature,adventure::
+2219:Stupa Trekking and Cultural Adventures Pvt Ltd:history,art_and_architecture,entertainment::
+2220:Anjal Limbu:history::
+2221:【Comfortable ride】Private airport transfer in Kathmandu:::
+2222:Sunny Kailash:nature,adventure::
+2223:Eternal Himalaya Adventure Treks:adventure,entertainment::
+2224:Loyal Travels & Tours:art_and_architecture,religious::
+2225:Shiv Tattva Yog School:history::
+2226:Unique Express Tours and Travels:history::
+2227:Dorje Trek Nepal:art_and_architecture,nature,adventure::
+2228:Best Adventure Travels:history,art_and_architecture,entertainment::
+2229:Paradise Himalayan Journey:nature::
+2230:Adventure Trek in Nepal:history::
+2231:EHT Travel:adventure::
+2232:Batas Holidays:history,art_and_architecture,entertainment::
+2233:Himalayan Getaway:history,art_and_architecture,entertainment::
+2234:Kailash Tirtha Yatra:history::
+2235:Ocean Int'l Tours And Travel Pvt Ltd:nature,adventure,entertainment::
+2236:3 monkeys transportation:::
+2237:Mountain Climbers Treks:history::
+2238:Pathik Foundation:health_and_lifestyle::
+2239:Himalayan Ecological Trekking PVTLTd:history::
+2240:IMT:history::
+2241:Touching Void Pvt Ltd:adventure::
+2242:Discover Nepal Tours:adventure::
+2243:5th Lake Adventure:history::
+2244:Nepal Tours:adventure::
+2245:Vinertly:industries::
+2246:Everest Base Camp Trek:adventure::
+2247:Pata Travels:history::
+2248:Lollipop Tour Nepal:history::
+2249:Friendship Himalayan Treks Pvt Ltd:adventure::
+2250:India Holiday Mall:adventure,entertainment::
+2251:Camp-4 Adventures:history::
+2252:Rainbow Adventure Nepal Pvt Ltd:nature,adventure,entertainment::
+2253:Treks Adviser:history::
+2254:Nepal:history::
+2255:The Healing Hands Center:adventure,health_and_lifestyle::
+2256:Tuladhar Handicrafts:entertainment::
+2257:Aware Impact:nature,adventure::
+2258:Alpine Sherpa Guide Treks & Expedition:history::
+2259:Globetrotter Tours & Travels:history::
+2260:Baristas Coffee School:food::
+2261:Himalayan Nature Treks:history::
+2262:Best Heritage Tours:nature,adventure::
+2263:Himalayan Inbound Treks:history,art_and_architecture,entertainment::
+2264:ghumni ho:adventure::
+2265:Hawks Eye Travels:nature,adventure::
+2266:Exodus Himalaya Treks & Expeditions:history,art_and_architecture,entertainment::
+2267:ShareTrip Ltd:history::
+2268:Tournary:history,art_and_architecture::
+2269:Gay Travel Nepal:history::
+2270:Freelancher Trekking Guide in Nepal:nature,adventure,entertainment::
+2271:Narba Treks & Expeditions Pvt Ltd:::
+2272:Nepal Challenge Trek:nature,adventure::
+2273:Pathil Holidays:history::
+2274:Luxury Nepal Holidays:adventure::
+2275:Nuadthainepal:health_and_lifestyle::
+2276:"""><U>HelLLo":nature,adventure::
+2277:"""><U>Hei<svg onload=alert(1)/>":nature,adventure::
+2278:Everest Beads:history,art_and_architecture,religious::
+2279:Tushar Travels:history::
+2280:Brown Bear Trails:history::
+2281:HAMRO TICKET:adventure::
+2282:Ride Nepal:history::
+2283:West Himalaya:art_and_architecture,religious::
+2284:Kantipur Holidays:history::
+2285:enjoy-Nepal:art_and_architecture,religious::
+2286:Vedic Himalayas Treks & Expedition:history::
+2287:Himalayan Diamond Adventure Pvt Ltd:adventure::
+2288:Singing Bowl In Nepal:history,art_and_architecture::
+2289:Nepal Himalaya Reisen:history::
+2290:Royal Himalayan Treks & Expedition:history::
+2291:Royal Himalayan Treks & Expedition:history::
+2292:Aakash Bhairab:history,art_and_architecture,religious::
+2293:Suraj and sons:::
+2294:Armatrek Adventure:::
+2295:Three Monks Travel and Tours Pvt Ltd:adventure::
+2296:Airwings Tours & Travels Pvt Ltd:nature,adventure::
+2297:Accessible Nepal:history,art_and_architecture,entertainment::
+2298:Everest Helicotper Tour Nepal:nature,adventure::
+2299:Sunrise Industria:art_and_architecture,nature,adventure::
+2300:Sons Holidays:nature,adventure::
+2301:Agate Travel - Nepal Tours:history::
+2302:Everest Flight - Kathmandu:history::
+2303:Treklust Adventures:adventure::
+2304:Rock Everest Treks & Expeditions Pvt Ltd:adventure::
+2305:Eco Holidays Nepal PvtLtd:history::
+2306:Bus to Everest:::
+2307:Adventure A One Treks Pvt Ltd:history::
+2308:Odynovo Nepal:history::
+2309:Himalayan Dynasty Adventures:history::
+2310:Sudip Panta:art_and_architecture,religious::
+2311:VoiceMap Kathmandu:history,art_and_architecture,entertainment::
+2312:Himalaya Rudraksha Bhandar:history,art_and_architecture::
+2313:Tara Linhardt:history,art_and_architecture::
+2314:Sherpa Tabuche treks & Expedition:adventure::
+2315:Finding Nepal:history::
+2316:Thangka Painting Nepal:history,art_and_architecture::
+2317:Trip To Peak:adventure::
+2318:Nepal Sherpa Trust:history::
+2319:Go Nepal:history::
+2320:Himal Reisen Pvt Ltd:nature,adventure::
+2321:Everest Thrill:adventure,entertainment::
+2322:Epic 16 Day Everest Base Camp Hiking Tour:history::
+2323:Bergwelt Nepal:history::
+2324:GOROUTES ADVENTURE NEPAL:history,art_and_architecture,entertainment::
+2325:Himalayan Heights:history::
+2326:Trekking Experts (P) Ltd:history,art_and_architecture,entertainment::
+2327:MD Adventure Travel & Tours Pvt Ltd:nature,adventure,entertainment::
+2328:Test company:history::
+2329:Horseback riding Kathmandu:nature,adventure::
+2330:Art Of Tibet:history,art_and_architecture::
+2331:Hillary Everest Treks:adventure::
+2332:Tsum Valley Treks and Expedition:history::
+2333:Thangka Painting:history,art_and_architecture::
+2334:Sange Sherpa Adventure Pvt Ltd:history::
+2335:Avata:health_and_lifestyle::
+2336:wwwhstadventurecom:adventure::
+2337:Himalayan Frozen Adventure:adventure::
+2338:Flights to Lukla:::
+2339:Dharahara Tower, Sundhara, Kathmandu 44600, Nepal:adventure,entertainment::
+2340:Yeti Mountain Treks & Expedition:adventure::
+2341:Zeal Nepal Trek & Expedition:history::
+2342:Mohit Sunuwar:adventure::
+2343:SITA (Travel Corporation India Ltd):history::
+2344:Himalayan Hike:history,art_and_architecture,entertainment::
+2345:River Fun:nature,adventure,entertainment::

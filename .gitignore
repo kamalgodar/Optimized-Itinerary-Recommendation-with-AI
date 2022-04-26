@@ -1,0 +1,7 @@
+*.txt
+
+# user werewolf-65 will be working here. ignore him. 
+working_wolf/
+
+*.ipynb_checkpoints/
+

@@ -1,0 +1,97 @@
+{% extends 'map/base.html' %}
+
+{% block content %}
+<!-- MAP -->
+<div id="mymapid"></div>
+
+<!-- PLACES SCROLL BAR HORIZONTAL -->
+<h3 class="text-center">Places around you</h3>
+<div class="scrolling-wrapper">
+    <div class="row">
+        {% for place in places %}
+        <div class="card col-8 place-list" style="width: 18rem;">
+            <img src="{{ place.photo.url }}" class="card-img-top img-responsive" alt="image" width="300px" height="200px">
+            <div class="card-body">
+                <h5 class="card-title text-center" style="height: 50px;">{{place.name}}</h5>
+                <p class="card-text shorten">{{place.description}}</p>
+            <a href="{% url 'detail' place.id %}" class="btn btn-primary">See more</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<script>
+// MAP DEFAULT LOCATION
+var mylat = 27.6828417;
+var mylon = 85.3178166;
+var myzoom = 16;
+var mymapid = null;
+
+function initMap() {
+    var mymap = L.map('mymapid').setView([mylat,mylon], myzoom);
+    var mk = L.marker([mylat,mylon]).addTo(mymap);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+        attribution: 'données à <a href="//osm.org/copyright">OpenStreetMap</a>/ODbL - rendu <a href="//openstreetmap.fr">OSM France</a>',
+        minZoom: 1,
+        maxZoom: 20
+    }).addTo(mymap);
+
+    var controlsearch = new L.Control.Search({
+        url: 'https://nominatim.openstreetmap.org/search?format=json&q={s}',
+        jsonpParam: 'json_callback',
+        propertyName: 'display_name',
+        propertyLoc: ['lat','lon'],
+        marker: L.circleMarker([0,0],{radius:30}),
+        autoCollapse: true,
+        autoType: false,
+        minLength: 2
+    }).on('search:locationfound',function(data){
+        console.log(data);
+    });
+                
+    controlsearch.addTo(mymap);
+
+    var popup = L.popup();
+    {% for place in places %}
+        // formatting model's location field to long,lat format
+        var location_json=JSON.parse('{{place.location.geojson}}'.replace(/&quot;/g,'"'));	
+
+        //for custom red icon
+        // var myIcon = L.icon({
+        //     iconUrl: '/media/info_red.png',
+        //     iconSize: [38,50],
+        // });
+
+        var map_marker = new L.GeoJSON(location_json,{
+            pointToLayer: function (feature,latlng){
+                return L.marker(latlng);
+            }
+        });
+
+        map_marker.addTo(mymap).on('click',function show(e){
+            popup
+                .setLatLng(e.latlng)
+                .setContent('{{place.name}} @ <a href="#">'+['coordinates']+'</a>')
+                .openOn(mymap)
+            });
+    {% endfor %}    
+    // arr = [
+    //     [27.6828417,85.3178166],
+    //     [27.6752242,85.3223596],
+    //     [27.6734852,85.3230247],
+    //     [27.6704274,85.3239595],
+    //     [27.7148341,85.2881911],
+    //     [27.7215062,85.3598087],
+    //     [27.6828417,85.3178166]
+    // ]
+    // L.polyline(arr).addTo(mymap);
+    var lc = L.control.locate().addTo(mymap);   
+};
+
+window.onload = function(){
+    initMap(); 
+};
+</script>
+{% endblock %}

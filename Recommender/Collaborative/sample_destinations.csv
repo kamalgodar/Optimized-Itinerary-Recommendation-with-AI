@@ -1,0 +1,201 @@
+destination_id,title,genre,history,art_and_architecture,nature,adventure,entertainment,health_and_lifestyle,food,industries,religious
+0,Boudhanath Stupa,['Religious Sites'],True,True,False,False,False,False,False,False,True
+1,Phewa Tal (Fewa Lake),['Bodies of Water'],False,False,True,False,False,False,False,False,False
+2,Sarangkot,['Mountains'],False,False,True,False,False,False,False,False,False
+3,Swayambhunath Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+4,Poon Hill,['Mountains'],False,False,True,False,False,False,False,False,False
+5,Peace Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+6,Pashupatinath Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+7,Durbar (Central) Square,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+8,Chandragiri Hills,['Mountains'],False,False,True,False,False,False,False,False,False
+9,Mount Everest,['Mountains'],False,False,True,False,False,False,False,False,False
+10,Begnas Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+11,Golden Temple (Hiranya Varna Mahavihar),['Religious Sites'],True,True,False,False,False,False,False,False,True
+12,Patan Museum,['Art Museums'],True,True,False,False,False,False,False,False,False
+13,International Mountain Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+14,Bhaktapur Durbar Square,"['Ancient Ruins', 'Points of Interest & Landmarks']",True,True,False,False,False,False,False,False,False
+15,Narayani River,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+16,Kopan Monastery,['Religious Sites'],True,True,False,False,False,False,False,False,True
+17,Thamel,['Neighborhoods'],False,False,False,False,False,False,False,False,False
+18,Nagarkot Panoramic Hiking Trail,['Hiking Trails'],False,False,True,True,False,False,False,False,False
+19,Gokyo Lakes,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+20,Patan Durbar Square,"['Points of Interest & Landmarks', 'Historic Walking Areas']",True,True,True,False,False,False,False,False,False
+21,Garden of Dreams,['Gardens'],False,False,False,False,False,False,False,False,False
+22,Namo Buddha (Stupa),"['Points of Interest & Landmarks', 'Religious Sites']",True,True,True,False,False,False,False,False,False
+23,Polar Trekking & Expedition  - Day Tours,"['Parasailing & Paragliding', 'River Rafting & Tubing']",False,False,False,True,False,False,False,False,False
+24,Kathmandu Durbar Square,"['Historic Sites', 'Points of Interest & Landmarks']",True,True,False,False,False,False,False,False,False
+25,Chitwan National Park,"['National Parks', 'Nature & Wildlife Areas']",False,False,True,False,False,False,False,False,False
+26,Gupteswar Gupha,['Caverns & Caves'],False,False,True,False,False,False,False,False,False
+27,Trisuli River,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+28,Devi's Fall,['Waterfalls'],False,False,False,False,False,False,False,False,False
+29,Gurkha Memorial Museum,['History Museums'],True,True,False,False,False,False,False,False,False
+30,Muktinath Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+31,Barahi temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+32,Maya Devi Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+33,Annapurna Base Camp Trek,['Hiking Trails'],False,False,True,True,False,False,False,False,False
+34,Annapurna Mountain Range,"['Mountains', 'Hiking Trails']",False,False,True,False,False,False,False,False,False
+35,Bindhya Basini Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+36,Kala Patthar,['Mountains'],False,False,True,False,False,False,False,False,False
+37,Asan,['Flea & Street Markets'],False,False,False,False,True,False,False,False,False
+38,Bishazari Tal,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+39,Jomsom Muktinath Trek,['Hiking Trails'],False,False,True,True,False,False,False,False,False
+40,Shivapuri Nagarjun National Park,['National Parks'],False,False,True,False,False,False,False,False,False
+41,Mahaboudha Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+42,Kailashnath Mahadev,['Monuments & Statues'],True,True,False,False,False,False,False,False,True
+43,Dakshinkali Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+44,Budhanilkantha,['Religious Sites'],True,True,False,False,False,False,False,False,True
+45,Krisnhna Mandir Temple (Chayasim Deval),"['Historic Sites', 'Religious Sites']",True,True,False,False,False,False,False,False,False
+46,Jangchub Choeling Tibetan Monastery,['Religious Sites'],True,True,False,False,False,False,False,False,True
+47,Nagarkot Nature Trail,"['Nature & Wildlife Areas', 'Hiking Trails']",False,False,True,True,False,False,False,False,False
+48,Pokhara Lakeside,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+49,Hanuman Dhoka,"['Points of Interest & Landmarks', 'Architectural Buildings']",True,True,True,False,False,False,False,False,False
+50,Mahendra Cave,['Caverns & Caves'],False,False,True,False,False,False,False,False,False
+51,Changu Narayan,['Religious Sites'],True,True,False,False,False,False,False,False,True
+52,The Crematoria,['Religious Sites'],True,True,False,False,False,False,False,False,True
+53,Seti River Gourge,['Nature & Wildlife Areas'],False,False,True,True,False,False,False,False,False
+54,Seti Gandaki (Seti River),['Bodies of Water'],False,False,True,False,False,False,False,False,False
+55,Bat Cave,"['Nature & Wildlife Areas', 'Caverns & Caves']",False,False,True,True,False,False,False,False,False
+56,Tiger Residency Resort,['Nature & Wildlife Areas'],False,False,True,True,False,False,False,False,False
+57,Sherpa Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+58,Langtang Valley,['Valleys'],False,False,True,False,False,False,False,False,False
+59,Thrangu Tashi Monastery,['Religious Sites'],True,True,False,False,False,False,False,False,True
+60,Pathibhara Devi Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+61,Patan Royal Palace,['Historic Sites'],True,True,False,False,False,False,False,False,False
+62,Janaki Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+63,Kumari Chowk,['Religious Sites'],True,True,False,False,False,False,False,False,True
+64,Thani Mai Temple,"['Lookouts', 'Religious Sites']",True,True,True,False,False,False,False,False,False
+65,Sagarmatha National Park Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+66,Rupa Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+67,Tushita-Nepal,"['Mysterious Sites', 'Religious Sites']",True,True,True,True,False,False,False,False,False
+68,Kali Gandaki River,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+69,Matepani Gumba,['Religious Sites'],True,True,False,False,False,False,False,False,True
+70,Rudra Varna Mahavihar,['Religious Sites'],True,True,False,False,False,False,False,False,True
+71,Khumbeshwar Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+72,Annapurna Butterfly Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+73,Narayanhiti Palace Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+74,Babar Mahal Revisted,['Architectural Buildings'],True,True,False,False,False,False,False,False,False
+75,"Pandeli Park, Sarangkot",['Parks'],False,False,False,False,False,False,False,False,False
+76,Labim Mall,['Shopping Malls'],False,False,False,False,True,False,False,False,False
+77,Basantapur Tower,['Lookouts'],True,True,True,False,False,False,False,False,False
+78,Tatopani Hot Spring,['Hot Springs & Geysers'],False,False,False,False,False,True,False,False,False
+79,The Central Zoo,['Zoos'],False,False,True,False,True,False,False,False,False
+80,yogconnection,['Sports Camps & Clinics'],False,False,False,True,False,True,False,False,False
+81,Buddhasubba Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+82,Adam Tribe Organic Farm,['Farms'],False,False,False,False,False,True,False,True,False
+83,Mangal Bazar,['Flea & Street Markets'],False,False,False,False,True,False,False,False,False
+84,Phulchoki,['Mountains'],False,False,True,False,False,False,False,False,False
+85,Kedareshwar Mahadev Mani Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+86,Makwanpur Gadhi,['Historic Sites'],True,True,False,False,False,False,False,False,False
+87,Dudh Koshi River,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+88,Machapuchare,['Mountains'],False,False,True,False,False,False,False,False,False
+89,Mt Ama Dablam,['Mountains'],False,False,True,False,False,False,False,False,False
+90,Bhimsen Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+91,Klod Fashion Exquisite,['Shopping Malls'],False,False,False,False,True,False,False,False,False
+92,Manakamana Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+93,Pokhara Museum,['History Museums'],True,True,False,False,False,False,False,False,False
+94,Kala Pattar,['Mountains'],False,False,True,False,False,False,False,False,False
+95,BIG Splash,['Water Parks'],False,False,False,False,True,False,False,False,False
+96,Budhanilakantha Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+97,Pullahari Monastery,['Religious Sites'],True,True,False,False,False,False,False,False,True
+98,Everest View Point,['Lookouts'],True,True,True,False,False,False,False,False,False
+99,Khumbu Glacier,"['Points of Interest & Landmarks', 'Geologic Formations']",True,True,True,False,False,False,False,False,False
+100,Kulekhani Dam,['Dams'],False,False,True,False,False,False,False,False,False
+101,Shree Gaden Dhargay Ling Monastery,['Religious Sites'],True,True,False,False,False,False,False,False,True
+102,National Botanical Gardens,['Gardens'],False,False,False,False,False,False,False,False,False
+103,Muktinath Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+104,Tharu Cultural Museum and Research Center,"['Speciality Museums', 'Natural History Museums']",False,False,False,False,False,False,False,False,False
+105,Shree Gahawamai Temple,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+106,Kyanjin Gompa,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+107,Chitwan Tharu Village,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+108,Ilam Tea Garden,['Nature & Wildlife Areas'],False,False,True,True,False,False,False,False,False
+109,World Peace Pagoda,"['Points of Interest & Landmarks', 'Architectural Buildings']",True,True,True,False,False,False,False,False,False
+110,Koshi Tappu Wildlife Reserve,['Nature & Wildlife Areas'],False,False,True,True,False,False,False,False,False
+111,Rara Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+112,Kriayt Social Business,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+113,Jaganath (Krishna) Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+114,Dipang Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+115,Kafuche Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+116,Indra Chowk,['Historic Walking Areas'],True,True,False,False,False,False,False,False,False
+117,Gurunghe Hill,"['Mountains', 'Lookouts']",False,False,True,False,False,False,False,False,False
+118,Ramgram Stupa,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+119,Kathesimbu Stupa,['Religious Sites'],True,True,False,False,False,False,False,False,True
+120,Basundhara Park,['Parks'],False,False,False,False,False,False,False,False,False
+121,Nuwakot Durbar,['Historic Sites'],True,True,False,False,False,False,False,False,False
+122,Nyatapola Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+123,Whoopee Land Amusement and Water Park,['Water Parks'],False,False,False,False,True,False,False,False,False
+124,Sun Kosi,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+125,Dhumba Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+126,Nagarkot Buddha Peace Park Hiking Trail,['Hiking Trails'],False,False,True,True,False,False,False,False,False
+127,Nagarkot to Dhulikhel Hiking,['Scenic Walking Areas'],False,False,True,False,False,False,False,False,False
+128,Taleju Mandir Temple,"['Points of Interest & Landmarks', 'Architectural Buildings']",True,True,True,False,False,False,False,False,False
+129,Daman,"['Historic Walking Areas', 'Biking Trails']",True,True,False,False,False,False,False,False,False
+130,The White Gallery,['Art Galleries'],True,True,False,False,False,False,False,False,True
+131,Mera Peak,['Mountains'],False,False,True,False,False,False,False,False,False
+132,Akash Bhairav Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+133,Pokhara Trade Mall,['Shopping Malls'],False,False,False,False,True,False,False,False,False
+134,MidTown Galleria,['Shopping Malls'],False,False,False,False,True,False,False,False,False
+135,Mandala Street,"['Neighborhoods', 'Points of Interest & Landmarks']",False,False,False,False,False,False,False,False,False
+136,Bageshwori Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+137,Ghar Gompa,['Religious Sites'],True,True,False,False,False,False,False,False,True
+138,Memorial to Scott Fischer,"['Points of Interest & Landmarks', 'Cemeteries']",True,True,True,False,False,False,False,False,False
+139,Sauraha Tharu Culture House,['Theaters'],False,True,False,False,True,False,False,False,False
+140,Mount Climber Trekking Garment Pvt Ltd,['Factory Outlets'],False,False,False,False,False,False,False,True,False
+141,Red Cliffs,['Caverns & Caves'],False,False,True,False,False,False,False,False,False
+142,Tilichol Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+143,Gosainkunda,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+144,Miteri Park,['Parks'],False,False,False,False,False,False,False,False,False
+145,Bagh Bhairab Temple,"['Points of Interest & Landmarks', 'Religious Sites']",True,True,True,False,False,False,False,False,False
+146,Sankhu Village,"['Points of Interest & Landmarks', 'Historic Walking Areas']",True,True,True,False,False,False,False,False,False
+147,Bhat Bhateni,['Department Stores'],False,False,False,False,False,True,False,False,False
+148,Amideva Buddha Park,['Parks'],False,False,False,False,False,False,False,False,False
+149,Baha Bahi,['Religious Sites'],True,True,False,False,False,False,False,False,True
+150,Patan Gate,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+151,Kala Bairav,"['Religious Sites', 'Monuments & Statues']",True,True,False,False,False,False,False,False,True
+152,Vishwanath Mandir Temple,"['Architectural Buildings', 'Religious Sites']",True,True,False,False,False,False,False,False,False
+153,Vajrayogini Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+154,Kanchenjunga,['Mountains'],False,False,True,False,False,False,False,False,False
+155,Dolakha Bhimsen Mandir,['Religious Sites'],True,True,False,False,False,False,False,False,True
+156,Phoksundo Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+157,Astrek Climbing Wall,['Sports Complexes'],False,False,False,False,True,False,False,False,False
+158,Old Gurung Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+159,The Ashokan Stupas,['Religious Sites'],True,True,False,False,False,False,False,False,True
+160,Templo de Changu Narayan,"['Points of Interest & Landmarks', 'Religious Sites']",True,True,True,False,False,False,False,False,False
+161,Sauraha Art Gallery,['Art Galleries'],True,True,False,False,False,False,False,False,True
+162,Mardi Himal,['Geologic Formations'],False,False,True,False,False,False,False,False,False
+163,Pindeshwor Temple,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+164,Siddha Baba Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+165,Taleju Bell,"['Historic Sites', 'Points of Interest & Landmarks']",True,True,False,False,False,False,False,False,False
+166,Ranighat Palace,['Religious Sites'],True,True,False,False,False,False,False,False,True
+167,Lumbini Monastic Site,"['Points of Interest & Landmarks', 'Religious Sites']",True,True,True,False,False,False,False,False,False
+168,Valle del Naar,['Geologic Formations'],False,False,True,False,False,False,False,False,False
+169,Mt Taboche,['Mountains'],False,False,True,False,False,False,False,False,False
+170,White Monastery,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+171,Taudaha Lake,['Bodies of Water'],False,False,True,False,False,False,False,False,False
+172,Shechen Monastery,['Religious Sites'],True,True,False,False,False,False,False,False,True
+173,55 Window Palace,['Historic Sites'],True,True,False,False,False,False,False,False,False
+174,Elephant Breeding Centre,['Nature & Wildlife Areas'],False,False,True,True,False,False,False,False,False
+175,The National Museum,"['Art Museums', 'History Museums']",True,True,False,False,False,False,False,False,False
+176,Aircrafts Museum,['Speciality Museums'],False,False,False,False,False,False,False,False,False
+177,Nagarjun Forest Reserve,"['Nature & Wildlife Areas', 'Forests']",False,False,True,True,False,False,False,False,False
+178,Indreshwar Mahadev Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+179,Degu Taleju Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+180,Dattatreya Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+181,Rato Machhendranath Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+182,Shiv Jatta,['Religious Sites'],True,True,False,False,False,False,False,False,True
+183,Cathedral of the Assumption of the Blessed Virgin Mary,"['Religious Sites', 'Churches & Cathedrals']",True,True,False,False,False,False,False,False,True
+184,Image Ark,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+185,Seto Machindranath Temple,['Religious Sites'],True,True,False,False,False,False,False,False,True
+186,Panchakanya Temple,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+187,Nagi Gompa,['Religious Sites'],True,True,False,False,False,False,False,False,True
+188,Ambulapcha-La,['Hiking Trails'],False,False,True,True,False,False,False,False,False
+189,Datankali Temple,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+190,Halesi Mahadev Temple,"['Historic Sites', 'Points of Interest & Landmarks']",True,True,False,False,False,False,False,False,False
+191,Casino Royale,['Casinos'],False,False,False,False,True,False,False,False,False
+192,Taumadhi Square,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+193,Freak Street (Jhhonchen Tole),['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+194,ISKCON,['Religious Sites'],True,True,False,False,False,False,False,False,True
+195,Aarya Ghat,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+196,Eternal Peace Flame,['Points of Interest & Landmarks'],True,True,True,False,False,False,False,False,False
+197,Tengboche Gompa,['Religious Sites'],True,True,False,False,False,False,False,False,True
+198,Bhat-Bhateni Supermarket and Departmental Store,['Shopping Malls'],False,False,False,False,True,False,False,False,False
+199,Basantpur Dabali,"['Points of Interest & Landmarks', 'Architectural Buildings']",True,True,True,False,False,False,False,False,False
