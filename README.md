@@ -8,8 +8,6 @@ It is a system that recommends the optimized itinerary connecting the best desti
 
 ![Route recommendation preview](./preview.png)
 
-There is a separate README file for every directory if you'd like.
-
 ## What's inside the directories by the way ? 
 
 **Datasets** : contains all the datasets used in our system
