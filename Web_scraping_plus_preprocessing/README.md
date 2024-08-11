@@ -15,3 +15,6 @@ pip install -r requirements.txt
 jupyter notebook
 
 ```
+
+
+Note: This requirements.txt file contains all the packages and libraries that has to be installed in the environment to run all the directories (Itinerary Recommender, Recommender)
